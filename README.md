@@ -1,2 +1,2 @@
-Kule-CSS-Lazy
+Kule Lazy 3
 =============
