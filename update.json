@@ -1,8 +1,9 @@
 {
   "packageManager": "github",
-  "name": "kule",
-  "repo": "keicheng/Kule-Lazy",
+  "name": "Kule Lazy",
+  "repo": "keicheng/kule.lazy",
   "files": {
-    "basePath": "/"
+    "basePath": "css/",
+    "include": ["css/kule-lazy3-full.min.css", "css/kule-effects.min.css", "css/kule-animates.min.css", "css/kule-reset.min.css", "css/kule-grid.min.css"]
   }
 }
