@@ -1,0 +1,20 @@
+{
+	"name": "Kule Lazy",
+	"version": "3.0.0922beta",
+	"description": "Kule Lazy 3, Do less, but changeable.",
+	"style": "css/kule-lazy3-full.min.css",
+	"files": [
+	"css/kule-lazy3-full.min.css",
+	"css/kule-effects.min.css",
+	"css/kule-animates.min.css",
+	"css/kule-reset.min.css",
+	"css/kule-grid.min.css"],
+	"homepage": "http://www.kule.tw",
+	"repository": {
+		"type": "git",
+		"url": "git@github.com:keicheng/kule.lazy.git"
+	},
+	"main": "css/kule-lazy3-full.min.css",
+	"author": "Kei Cheng",
+	"license": "MIT"
+}
