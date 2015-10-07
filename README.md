@@ -38,36 +38,11 @@ Kule Lazy 3
 <p>在你使用 Lazy 之前，請先初步了解基本規則，這樣會幫助你更簡單使用 Lazy。</p>
 <h4>配色與狀態</h4>
 <p>以下為Lazy的配色與狀態顏色，使用配色時請以 <code>.color-</code> 為開頭並搭配以下配色名稱，例如：<code>.color-primary</code></p>
-<div class="demo-color clearfix">
-<div class="demo-item" style="background: #45a7b9">主色系<br />primary</div>
-<div class="demo-item" style="background: #55b3e9">次色系<br />secondary</div>
-<div class="demo-item" style="background: #f45b8a">關注色<br />focus</div>
-<div class="demo-item" style="background: #374e52">通用色<br />common</div>
-<div class="clear"></div>
-<div class="demo-item" style="background: #82ba29">完成狀態<br />success</div>
-<div class="demo-item" style="background: #f38b2e">危險狀態<br />warning</div>
-<div class="demo-item" style="background: #d63a2b">錯誤狀態<br />error</div>
-</div>
-<h6>範例：</h6>
-<div class="demo-render">
-<a class="btn color-primary">按鈕</a>
-<a class="btn color-success">按鈕</a>
-<a class="btn color-warning">按鈕</a>
-<a class="btn color-error">按鈕</a>
-</div>
 <pre><code class="language-markup">&lt;a class="btn color-primary"&gt;按鈕&lt;/a&gt;
 &lt;a class="btn color-suceess"&gt;按鈕&lt;/a&gt;
 &lt;a class="btn color-warning"&gt;按鈕&lt;/a&gt;
 &lt;a class="btn color-error"&gt;按鈕&lt;/a&gt;</code></pre>
 <p>還有一種情況也能使用配色，當給予父層標籤時，所有內容都會套上顏色，例如：</p>
-<div class="demo-render">
-<div class="btn-grp color-primary">
-    <a class="btn">按鈕</a>
-    <a class="btn">按鈕</a>
-    <a class="btn">按鈕</a>
-    <a class="btn">按鈕</a>
-</div>
-</div>
 <pre><code class="language-markup">&lt;div class="btn-grp color-primary"&gt;
 &lt;a class="btn"&gt;按鈕&lt;/a&gt;
 &lt;a class="btn"&gt;按鈕&lt;/a&gt;
@@ -77,32 +52,11 @@ Kule Lazy 3
 <hr />
 <h4>尺寸大小</h4>
 <p>除了原本的預設大小之外，大部分的元素或組件都有其他四種尺寸變化，包含</p>
-<ul class="kui-list">
-<li>Mini: <code>.size-xs</code></li>
-<li>Small: <code>.size-sm</code></li>
-<li>Large: <code>.size-lg</code></li>
-<li>XLarge: <code>.size-xl</code></li>
-</ul>
-<h6>範例：</h6>
-<div class="demo-render">
-<a class="btn size-xs">按鈕</a>
-<a class="btn size-sm">按鈕</a>
-<a class="btn size-lg">按鈕</a>
-<a class="btn size-xl">按鈕</a>
-</div>
 <pre><code class="language-markup">&lt;a class="btn size-xs"&gt;按鈕&lt;/a&gt;
 &lt;a class="btn size-sm"&gt;按鈕&lt;/a&gt;
 &lt;a class="btn size-lg"&gt;按鈕&lt;/a&gt;
 &lt;a class="btn size-xl"&gt;按鈕&lt;/a&gt;</code></pre>
 <p>當然這也與配色一樣可以直接給予父層讓所有元素有著相同尺寸</p>
-<div class="demo-render">
-<div class="btn-grp size-sm">
-    <a class="btn">按鈕</a>
-    <a class="btn">按鈕</a>
-    <a class="btn">按鈕</a>
-    <a class="btn">按鈕</a>
-</div>
-</div>
 <pre><code class="language-markup">&lt;div class="btn-grp size-sm"&gt;
 &lt;a class="btn"&gt;按鈕&lt;/a&gt;
 &lt;a class="btn"&gt;按鈕&lt;/a&gt;
@@ -112,15 +66,6 @@ Kule Lazy 3
 <hr />
 <h4>Disabled</h4>
 <p>只要使用到 <code>disabled</code> 屬性或是 <code>.disabled</code> 時，該區塊或是元件就會無法點選並且加上透明度。</p>
-<div class="demo-render">
-<input type="text" class="ctrl-input" disabled />
-<div class="btn-grp disabled">
-    <a class="btn">按鈕</a>
-    <a class="btn">按鈕</a>
-    <a class="btn">按鈕</a>
-    <a class="btn">按鈕</a>
-</div>
-</div>
 <pre><code class="language-markup">&lt;input type="text" class="ctrl-input" disabled /&gt;
 &lt;div class="btn-grp disabled"&gt;
 &lt;a class="btn"&gt;按鈕&lt;/a&gt;
