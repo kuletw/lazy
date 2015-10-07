@@ -1,6 +1,6 @@
 {
 	"name": "Kule Lazy",
-	"version": "3.0.0922beta",
+	"version": "3.0.1007beta",
 	"main": "css/kule-lazy3-full.min.css",
 	"author": "Kei Cheng",
 	"ignore": ["img",".URL",
