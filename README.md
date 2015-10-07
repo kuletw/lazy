@@ -1,7 +1,8 @@
 Kule Lazy 3
 =============
 版本：3.0.1007beta
-使用說明請詳見：http://www.kule.tw
+
+使用說明請看：http://www.kule.tw/doc.html
 
 <h2>前言</h2>
 <p>這是一個純CSS的Framework，目前不包含 Javascript，但未來陸續會新增 Javascript 的處理、Icon的繪製、更多模組。</p>
