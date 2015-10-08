@@ -1,20 +1,34 @@
 {
-	"name": "Kule Lazy",
-	"version": "3.0.1007beta",
-	"description": "Kule Lazy 3, Do less, but changeable.",
-	"style": "css/kule-lazy3-full.min.css",
-	"files": [
-	"css/kule-lazy3-full.min.css",
-	"css/kule-effects.min.css",
-	"css/kule-animates.min.css",
-	"css/kule-reset.min.css",
-	"css/kule-grid.min.css"],
-	"homepage": "http://www.kule.tw",
-	"repository": {
-		"type": "git",
-		"url": "git@github.com:keicheng/kule.lazy.git"
-	},
-	"main": "css/kule-lazy3-full.min.css",
-	"author": "Kei Cheng",
-	"license": "MIT"
+  "name": "Kule Lazy",
+  "version": "3.0.1007beta",
+  "description": "Kule CSS Lazy, Do less, but changeable.",
+  "keywords": [
+    "Kule",
+    "Lazy",
+    "Kei",
+    "css",
+    "framework",
+    "components",
+    "effects",
+    "animates",
+    "grid",
+    "mobile",
+    "tiles"
+  ],
+  "filename": "kule-lazy-full.min.css",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/keicheng/kule.lazy.git"
+  },
+  "author": "Kei Cheng",
+  "license": "Free",
+  "homepage": "http://www.kule.tw",
+  "autoupdate": {
+    "source": "git",
+    "target": "git://github.com/keicheng/kule.lazy.git",
+    "basePath": "dist",
+    "files": [
+      "**/*"
+    ]
+  }
 }
