@@ -173,7 +173,8 @@ Hack 基本上是針對 IE 瀏覽器，尤其是 IE 8，因為部分模組有使
 ---
 
 ## 使用授權
-完全免費，真是佛心來著。其實當初只是用不慣其他 CSS Frameworks，所以把以前寫過的東西拿出來整理，然後自己刻了一套。
+[MIT License](https://github.com/keicheng/kule.lazy/blob/master/LICENSE)
+其實當初只是用不慣其他 CSS Frameworks，所以把以前寫過的東西拿出來整理，然後自己刻了一套。
 
 ---
 
