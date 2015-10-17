@@ -88,10 +88,10 @@ Kule Lazy 3
 
 ```html
 <div class="btn-grp color-primary">
-<a class="btn">按鈕</a>
-<a class="btn">按鈕</a>
-<a class="btn">按鈕</a>
-<a class="btn">按鈕</a>
+  <a class="btn">按鈕</a>
+  <a class="btn">按鈕</a>
+  <a class="btn">按鈕</a>
+  <a class="btn">按鈕</a>
 </div>
 ```
 
@@ -112,10 +112,10 @@ Kule Lazy 3
 
 ```html
 <div class="btn-grp size-sm">
-<a class="btn">按鈕</a>
-<a class="btn">按鈕</a>
-<a class="btn">按鈕</a>
-<a class="btn">按鈕</a>
+  <a class="btn">按鈕</a>
+  <a class="btn">按鈕</a>
+  <a class="btn">按鈕</a>
+  <a class="btn">按鈕</a>
 </div>
 ```
 
@@ -128,10 +128,10 @@ Kule Lazy 3
 ```html
 <input type="text" class="ctrl-input" disabled />
 <div class="btn-grp disabled">
-<a class="btn">按鈕</a>
-<a class="btn">按鈕</a>
-<a class="btn">按鈕</a>
-<a class="btn">按鈕</a>
+  <a class="btn">按鈕</a>
+  <a class="btn">按鈕</a>
+  <a class="btn">按鈕</a>
+  <a class="btn">按鈕</a>
 </div>
 ```
 
