@@ -14,22 +14,26 @@
     "animates",
     "grid",
     "mobile",
-    "tiles"
+    "tablet",
+    "desktop",
+    "rwd",
+    "responsive",
+    "browsers"
   ],
-  "filename": "kule-lazy-full.min.css",
+  "filename": "css/kule-lazy-full.min.css",
   "repository": {
     "type": "git",
     "url": "git://github.com/keicheng/kule.lazy.git"
   },
   "author": "Kei Cheng",
-  "license": "Free",
+  "license": "MIT",
   "homepage": "http://www.kule.tw",
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/keicheng/kule.lazy.git",
-    "basePath": "dist",
+    "basePath": "",
     "files": [
-      "**/*"
+      "css/**/*"
     ]
   }
 }
