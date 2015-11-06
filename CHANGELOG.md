@@ -1,3 +1,10 @@
+##3.0.1106beta##
+1. .icon:before line-height 改為 inherit
+2. .info-item 沒有 .hide 情況下，後面連接的 .info-item 的margin為 20px
+3. Popups 新增不同方位選項
+4. 更新 urbrowser 至 2.151105
+5. 修正 issue #5 問題
+
 ##3.0.1101beta##
 1. 調整 .label 行高與內距
 2. 調整 &lt;html&gt; 預設字級
@@ -8,8 +15,8 @@
 7. 移除 Popup 的內距、增加z-index、調整邊框顏色
 
 ##3.0.1015beta##
-調整與修正 Cards, Infoitems, Avatars 等樣式
-新增 .img-grp
+1. 調整與修正 Cards, Infoitems, Avatars 等樣式
+2. 新增 .img-grp
 
 ##3.0.1007beta##
 調整 Tabs 樣式、新增 Grid 功能

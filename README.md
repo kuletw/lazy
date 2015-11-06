@@ -1,7 +1,7 @@
 Kule Lazy 3
 =============
 
-版本：3.0.1101beta
+版本：3.0.1106beta
 
 使用說明請看：http://www.kule.tw/doc.html
 
