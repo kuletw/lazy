@@ -1,3 +1,9 @@
+##3.0.1114beta##
+1. 移除 table 預設背景色、調整 .table-responsive  內容。
+2. 調整 Typography 內容與新增 hr 樣式
+3. 優化部分項目
+4. 更新 urbrowser 至 2.151109
+
 ##3.0.1106beta##
 1. .icon:before line-height 改為 inherit
 2. .info-item 沒有 .hide 情況下，後面連接的 .info-item 的margin為 20px
