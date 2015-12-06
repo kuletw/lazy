@@ -1,3 +1,11 @@
+##3.0.151206##
+1. 修正 .btn margin 問題
+2. 調整 modal 不同裝置時的 padding 值
+3. 調整 jquery ui 部分配色
+4. 針對不同裝置新增 Grid 項目
+5. 優化部分項目
+6. 更新 urbrowser 至 2.151124
+
 ##3.0.1114beta##
 1. 移除 table 預設背景色、調整 .table-responsive  內容。
 2. 調整 Typography 內容與新增 hr 樣式
