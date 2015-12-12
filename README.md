@@ -1,6 +1,8 @@
 Kule Lazy 3
 =============
 
+[![Join the chat at https://gitter.im/keicheng/kule.lazy](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/keicheng/kule.lazy?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 版本：3.0.151206
 
 使用說明請看：http://www.kule.tw/doc.html
