@@ -1,3 +1,11 @@
+##3.0.151226##
+1. 新增 .required-field 說明
+2. 新增 .flex-media-mask 以及調整 .flex z-index
+3. 新增 .notice-static
+4. 新增 Checkbox Group
+5. 優化部分項目
+6. 更新 urbrowser 至 2.151226
+
 ##3.0.151206##
 1. 修正 .btn margin 問題
 2. 調整 modal 不同裝置時的 padding 值
