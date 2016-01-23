@@ -1,7 +1,7 @@
 {
   "name": "kule.lazy",
   "title": "Kule Lazy",
-  "version": "3.0.151226",
+  "version": "3.1.160123",
   "description": "Kule CSS Lazy, Do less, but changeable.",
   "keywords": [
     "Kule",
@@ -20,7 +20,7 @@
     "responsive",
     "browsers"
   ],
-  "filename": "dist/css/kule-lazy-full.min.css",
+  "filename": "dist/css/kule-lazy.min.css",
   "repository": {
     "type": "git",
     "url": "git://github.com/keicheng/kule.lazy.git"

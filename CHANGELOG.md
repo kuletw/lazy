@@ -1,3 +1,8 @@
+##3.1.160123##
+1. 抽離配色與尺寸樣式
+2. 新增 .flex-media 5:2 比例
+3. 優化部分項目
+
 ##3.0.151226##
 1. 新增 .required-field 說明
 2. 新增 .flex-media-mask 以及調整 .flex z-index
