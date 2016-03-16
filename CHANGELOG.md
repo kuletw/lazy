@@ -1,3 +1,9 @@
+##3.1.160316##
+1. 修正錯誤(包含Github: #10, #11, #12)
+2. :hover 與 :active 修改為只在 Desktop 版本才有效果 (須使用 <a href="http://urbrowser.kule.tw/" target="_blank">Kule urBrowser</a>)
+3. Checkbox Group 改為 Checkbox List
+4. 更新 urbrowser 至 2.160209
+
 ##3.1.160123##
 1. 抽離配色與尺寸樣式
 2. 新增 .flex-media 5:2 比例
