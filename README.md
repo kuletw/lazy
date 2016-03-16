@@ -15,58 +15,37 @@ Kule Lazy 3
 將依照您的路徑連結您使用的檔案，例如：
 
 ```html
-<link href="你的資料夾路徑/kule-lazy-full.min.css" />
-```
-
-在使用 Kule Lazy 之前，建議載入 [urBrowser](http://urbrowser.kule.tw)，它能夠幫助你針對不同平台或瀏覽器進行除錯，如果你有使用 kule-grid-ie.min.css 的話，那麼它會是**必須載入**的 Javascript 檔案，例如：
-
-
-```html
-<link href="你的資料夾路徑/kule-grid.min.css" />
-<script src="你的資料夾路徑/kule-urbrowser.min.js" />
+<link href="css/kule-lazy.min.css" />
+<link href="css/kule-theme-default.min.css" />
+<script src="js/kule-urbrowser.min.js"></script>
 ```
 
 ##### 建議載入的順序
-
 載入順序可參照上方表格的順序
-
 ###### 使用全部效果：
 
 ```html
-<link href="你的資料夾路徑/kule-lazy-full.min.css" />
-<link href="你的資料夾路徑/kule-effects.min.css" />
-<link href="你的資料夾路徑/kule-animates.min.css" />
-<link href="你的資料夾路徑/kule-jquery-ui.min.css" />
-<script src="你的資料夾路徑/kule-urbrowser.min.js" />
+<link href="css/kule-lazy.min.css" />
+<link href="css/kule-effects.min.css" />
+<link href="css/kule-animates.min.css" />
+<link href="css/kule-jquery-ui.min.css" />
+<link href="css/kule-theme-default.min.css" />
+<script src="js/kule-urbrowser.min.js" />
 ```
 
 ###### 單獨使用 Grid System：
 
 ```html
-<link href="你的資料夾路徑/kule-grid.min.css" />
-<script src="你的資料夾路徑/kule-urbrowser.min.js" />
+<link href="css/kule-grid.min.css" />
+<script src="js/kule-urbrowser.min.js" />
 ```
 
 ###### 只要使用基本樣式：
 
 ```html
-<link href="你的資料夾路徑/kule-base.min.css" />
-<script src="你的資料夾路徑/kule-urbrowser.min.js" />
-```
-
-###### 使用基本樣式與組件：
-
-```html
-<link href="你的資料夾路徑/kule-lazy.min.css" />
-<script src="你的資料夾路徑/kule-urbrowser.min.js" />
-```
-
-###### 使用基本樣式與組件搭配附加模組：
-
-```html
-<link href="你的資料夾路徑/kule-lazy.min.css" />
-<link href="你的資料夾路徑/kule-addons.min.css" />
-<script src="你的資料夾路徑/kule-urbrowser.min.js" />
+<link href="css/kule-base.min.css" />
+<link href="css/kule-theme-default.min.css" />
+<script src="js/kule-urbrowser.min.js" />
 ```
 
 ---
@@ -176,7 +155,6 @@ Hack 基本上是針對 IE 瀏覽器，尤其是 IE 8，因為部分模組有使
 
 ## 使用授權
 Kule Lazy 使用 [MIT 授權](https://github.com/keicheng/kule.lazy/blob/master/LICENSE)。
-完全免費，真是佛心來著。其實當初只是用不慣其他 CSS Frameworks，所以把以前寫過的東西拿出來整理，然後自己刻了一套。
 
 ---
 
