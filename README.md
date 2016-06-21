@@ -1,7 +1,7 @@
 Kule Lazy 3
 =============
 
-版本：3.1.160316
+版本：3.1.160621
 
 [![Join the chat at https://gitter.im/keicheng/kule.lazy](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/keicheng/kule.lazy?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 

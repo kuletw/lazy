@@ -1,3 +1,8 @@
+##3.1.160621##
+1. 新增 Drop Notify 物件
+2. 修正錯誤及優化
+3. 更新 urbrowser 至 3.160508
+
 ##3.1.160316##
 1. 修正錯誤(包含Github: #10, #11, #12)
 2. :hover 與 :active 修改為只在 Desktop 版本才有效果 (須使用 Kule urBrowser)
