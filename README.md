@@ -1,7 +1,7 @@
 Kule Lazy 3
 =============
 
-版本：3.1.161023
+版本：3.1.161102
 
 [![CDNJS](https://img.shields.io/cdnjs/v/kule.lazy.svg)](https://cdnjs.com/libraries/kule.lazy)
 
