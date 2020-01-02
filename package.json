@@ -1,8 +1,8 @@
 {
-  "name": "kule.lazy",
-  "title": "Kule Lazy",
-  "version": "3.1.171101",
-  "description": "Kule CSS Lazy, Do less, but changeable.",
+  "name": "lazy",
+  "title": "Kule Lazy4",
+  "version": "4.0.0b",
+  "description": "Kule CSS Lazy, Saving you time, rich you life.",
   "keywords": [
     "Kule",
     "Lazy",
@@ -20,17 +20,17 @@
     "responsive",
     "browsers"
   ],
-  "filename": "dist/css/kule-lazy.min.css",
+  "filename": "dist/css/lazy4.css",
   "repository": {
     "type": "git",
-    "url": "git://github.com/keicheng/kule.lazy.git"
+    "url": "git@github.com:kuletw/lazy.git"
   },
   "author": "Kei Cheng",
   "license": "MIT",
-  "homepage": "http://www.kule.tw",
+  "homepage": "https://kule.tw",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/keicheng/kule.lazy.git",
+    "target": "git@github.com:kuletw/lazy.git",
     "basePath": "dist/",
     "files": [
       "**/*"
