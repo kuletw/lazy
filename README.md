@@ -1,21 +1,22 @@
-Kule Lazy 4
+Kule Lazy 3
 =============
 
-版本：4.0.0b
+版本：3.1.171101
 
 [![CDNJS](https://img.shields.io/cdnjs/v/kule.lazy.svg)](https://cdnjs.com/libraries/kule.lazy)
 
-使用說明請看：http://lazy4.kule.tw/how-to-use
+使用說明請看：http://www.kule.tw/doc.html
 
 ## 前言
-Lazy4 依然是套 CSS Framework，目前所有操作效果以純 CSS 為主。
+這是一個純CSS的Framework，目前不包含 Javascript，但未來陸續會新增 Javascript 的處理、Icon的繪製、更多模組。
 
 #### 載入檔案
 
 將依照您的路徑連結您使用的檔案，例如：
 
 ```html
-<link href="css/lazy4.css" />
+<link href="css/kule-lazy.min.css" />
+<link href="css/kule-theme-default.min.css" />
 <script src="js/kule-urbrowser.min.js"></script>
 ```
 
@@ -24,39 +25,138 @@ Lazy4 依然是套 CSS Framework，目前所有操作效果以純 CSS 為主。
 ###### 使用全部效果：
 
 ```html
-<link href="css/lazy4.css" />
-<link href="css/lazy4-colours.css" />
-<link href="css/lazy4-brands.css" />
+<link href="css/kule-lazy.min.css" />
+<link href="css/kule-effects.min.css" />
+<link href="css/kule-animates.min.css" />
+<link href="css/kule-jquery-ui.min.css" />
+<link href="css/kule-theme-default.min.css" />
 <script src="js/kule-urbrowser.min.js" />
 ```
 
 ###### 單獨使用 Grid System：
 
 ```html
-<link href="css/lazy4-gridsystem.css" />
+<link href="css/kule-grid.min.css" />
 <script src="js/kule-urbrowser.min.js" />
 ```
+
+###### 只要使用基本樣式：
+
+```html
+<link href="css/kule-base.min.css" />
+<link href="css/kule-theme-default.min.css" />
+<script src="js/kule-urbrowser.min.js" />
+```
+
+---
+
+## 全域規則
+
+在你使用 Lazy 之前，請先初步了解基本規則，這樣會幫助你更簡單使用 Lazy。
+
+#### 配色與狀態
+
+以下為Lazy的配色與狀態顏色，使用配色時請以 `.color-` 為開頭並搭配以下配色名稱，例如：`.color-primary`
+
+```html
+<a class="btn color-primary">按鈕</a>
+<a class="btn color-suceess">按鈕</a>
+<a class="btn color-warning">按鈕</a>
+<a class="btn color-error">按鈕</a>
+```
+
+還有一種情況也能使用配色，當給予父層標籤時，所有內容都會套上顏色，例如：
+
+```html
+<div class="btn-grp color-primary">
+  <a class="btn">按鈕</a>
+  <a class="btn">按鈕</a>
+  <a class="btn">按鈕</a>
+  <a class="btn">按鈕</a>
+</div>
+```
+
+---
+
+#### 尺寸大小
+
+除了原本的預設大小之外，大部分的元素或組件都有其他四種尺寸變化，包含
+
+```html
+<a class="btn size-xs">按鈕</a>
+<a class="btn size-sm">按鈕</a>
+<a class="btn size-lg">按鈕</a>
+<a class="btn size-xl">按鈕</a>
+```
+
+當然這也與配色一樣可以直接給予父層讓所有元素有著相同尺寸
+
+```html
+<div class="btn-grp size-sm">
+  <a class="btn">按鈕</a>
+  <a class="btn">按鈕</a>
+  <a class="btn">按鈕</a>
+  <a class="btn">按鈕</a>
+</div>
+```
+
+---
+
+#### Disabled
+
+只要使用到 `disabled` 屬性或是 `.disabled` 時，該區塊或是元件就會無法點選並且加上透明度。
+
+```html
+<input type="text" class="ctrl-input" disabled />
+<div class="btn-grp disabled">
+  <a class="btn">按鈕</a>
+  <a class="btn">按鈕</a>
+  <a class="btn">按鈕</a>
+  <a class="btn">按鈕</a>
+</div>
+```
+
 ---
 
 ## 瀏覽器與裝置
 
 #### 各平台上的瀏覽器支援
 
-市面上主流系統與瀏覽器皆有支援。Microsoft IE 僅局部支援至 11.x。
+基本上市面主流系統與瀏覽器都有支援，但Opera的版本煩亂就沒有刻意去處理，至於 IE 瀏覽器主要支援 IE 9以上版本，當然如果本身CSS 3屬性完全不支援的情況下就無法支援。至於微軟最新的 Edge 瀏覽器採用的是 Webkit 核心，所以支援度應該與 Chrome 差不了太多。根據[維基百科](https://zh.wikipedia.org/zh-tw/Microsoft_Edge)指出：『Microsoft Edge 使用了名為 EdgeHTML 的瀏覽器引擎，該引擎是 Trident 的一個分支。』但從 userAgent 來看，的確是顯示 Webkit。(Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.10240)</span>
+
+我自己專案的瀏覽器支援度通常是最新版號-1。
 
 |   |Chrome|Firefox|Edge|IE|Safari|Opera|
 |---|---|---|---|---|---|---|
-|Windows|支援|支援|支援|11.0 局部支援|不存在|支援|
-|Mac OS|支援|支援|支援|不存在|支援|支援|
-|iOS|支援|支援|支援|不存在|支援|局部支援|
-|Android|支援|支援|支援|不存在|不存在|局部支援|
+|Windows|支援|支援|支援|局部支援<br />請見下方表格|不存在|支援|
+|Mac OS|支援|支援|不存在|不存在|支援|支援|
+|iOS|支援|支援|不存在|不存在|支援|不支援|
+|Android|支援|支援|不存在|不存在|不存在|不支援|
+
+---
+
+#### IE 瀏覽器支援度
+
+使用有關動畫效果如 Effects, Animates時，請先注意 IE 支援度是否符合你的專案。
+
+|   |6, 7|8|9|10|11|
+|---|---|---|---|---|---|
+|Lazy|不支援|局部支援|局部支援|支援|支援|
+|Grid System|不支援|局部支援<br />支援 Grid<br />但不含 Responsive|支援|支援|支援|
+|Animates|不支援|不支援|不支援|支援|支援|
+|jQuery UI Theme|不支援|支援|支援|支援|支援|
+
+---
+
+### Hacks
+Hack 基本上是針對 IE 瀏覽器，尤其是 IE 8，因為部分模組有使用 @media query，因此另外寫 Hack 給 IE 8，所以請記得載入 [urBrowser](http://urBrowser.kule.tw)，Hack 才能生效。
 
 ---
 
 ## 使用授權
-Kule Lazy 使用 [MIT 授權](https://github.com/kuletw/lazy/blob/master/LICENSE)。
+Kule Lazy 使用 [MIT 授權](https://github.com/keicheng/kule.lazy/blob/master/LICENSE)。
 
 ---
 
 ## 問題與回報
-任何問題與建議歡迎到 [Facebook](https://www.facebook.com/kule.tw) 、 [Github](https://github.com/kuletw/lazy) 聯繫，謝謝你。
+目前處於 beta 版本中，但大致上都已完成，主要剩下 IE Hack 以及 Mobile 上的測試。當然如果你有發現任何疑問或是 bug，歡迎隨時到 [Facebook](https://www.facebook.com/kule.tw) 上告訴我，謝謝你。
