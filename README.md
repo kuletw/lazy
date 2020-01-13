@@ -1,9 +1,9 @@
 Kule Lazy 4
 =============
 
-版本：4.0.0b
+版本：4.0.1b
 
-[![CDNJS](https://img.shields.io/cdnjs/v/kule.lazy.svg)](https://cdnjs.com/libraries/kule.lazy)
+[jsDelivr](https://cdn.jsdelivr.net/gh/kuletw/lazy@4.0.1b/dist/css/lazy4.css)
 
 使用說明請看：http://lazy4.kule.tw/how-to-use
 
