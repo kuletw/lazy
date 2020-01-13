@@ -1,9 +1,9 @@
 Kule Lazy 4
 =============
 
-版本：4.0.0b
+版本：4.0.1b
 
-[![CDNJS](https://img.shields.io/cdnjs/v/kule.lazy.svg)](https://cdnjs.com/libraries/kule.lazy)
+[jsDelivr](https://cdn.jsdelivr.net/gh/kuletw/lazy@4.0.1b/dist/css/lazy4.css){:target="_blank"}
 
 使用說明請看：http://lazy4.kule.tw/how-to-use
 
@@ -27,7 +27,7 @@ Lazy4 依然是套 CSS Framework，目前所有操作效果以純 CSS 為主。
 <link href="css/lazy4.css" />
 <link href="css/lazy4-colours.css" />
 <link href="css/lazy4-brands.css" />
-<script src="js/kule-urbrowser.min.js" />
+<script src="js/kule.urbrowser.min.js" />
 ```
 
 ###### 單獨使用 Grid System：
