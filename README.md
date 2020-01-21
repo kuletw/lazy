@@ -1,9 +1,7 @@
 Kule Lazy 4
 =============
 
-版本：4.0.4b
-
-[jsDelivr](https://cdn.jsdelivr.net/gh/kuletw/lazy@4.0.4b/dist/css/lazy4.css)
+版本：4.0.6b
 
 使用說明請看：http://lazy4.kule.tw/how-to-use
 
