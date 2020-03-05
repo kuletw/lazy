@@ -4,21 +4,15 @@
     $bw: border-width,
     $fs: font-size
 */
-.clr\:red.btn,
-.clr\:red.btn-grp > .btn {
+.clr\:red.btn, .clr\:red.btn-grp > .btn {
   color: rgba(255, 255, 255, 0.87);
   background-color: #d0104c; }
-  .clr\:red.btn:hover, .clr\:red.btn.is\:hover,
-  .clr\:red.btn-grp > .btn:hover,
-  .clr\:red.btn-grp > .btn.is\:hover {
+  .clr\:red.btn:hover, .clr\:red.btn.is\:hover, .clr\:red.btn-grp > .btn:hover, .clr\:red.btn-grp > .btn.is\:hover {
     background-color: #b20e41; }
-  .clr\:red.btn:active, .clr\:red.btn.is\:on,
-  .clr\:red.btn-grp > .btn:active,
-  .clr\:red.btn-grp > .btn.is\:on {
+  .clr\:red.btn:active, .clr\:red.btn.is\:on, .clr\:red.btn-grp > .btn:active, .clr\:red.btn-grp > .btn.is\:on {
     color: rgba(255, 255, 255, 0.87);
     background-color: #a30d3b; }
-  .clr\:red.btn > .badge,
-  .clr\:red.btn-grp > .btn > .badge {
+  .clr\:red.btn > .badge, .clr\:red.btn-grp > .btn > .badge {
     /*
     hue: $hue;
     lightness: $lightness;
@@ -29,21 +23,14 @@
     //*/
     color: #d0104c;
     background-color: rgba(255, 255, 255, 0.7); }
-
-.clr\:red.btn-outline,
-.clr\:red.btn-grp > .btn-outline {
+.clr\:red.btn-outline, .clr\:red.btn-grp > .btn-outline {
   color: #d0104c;
   border-color: #d0104c; }
-  .clr\:red.btn-outline:hover, .clr\:red.btn-outline:active, .clr\:red.btn-outline.is\:on,
-  .clr\:red.btn-grp > .btn-outline:hover,
-  .clr\:red.btn-grp > .btn-outline:active,
-  .clr\:red.btn-grp > .btn-outline.is\:on {
+  .clr\:red.btn-outline:hover, .clr\:red.btn-outline:active, .clr\:red.btn-outline.is\:on, .clr\:red.btn-grp > .btn-outline:hover, .clr\:red.btn-grp > .btn-outline:active, .clr\:red.btn-grp > .btn-outline.is\:on {
     background-color: rgba(208, 16, 76, 0.05); }
-  .clr\:red.btn-outline > .badge,
-  .clr\:red.btn-grp > .btn-outline > .badge {
+  .clr\:red.btn-outline > .badge, .clr\:red.btn-grp > .btn-outline > .badge {
     color: #d0104c;
     border-color: #d0104c; }
-
 .clr\:red.tag {
   color: rgba(132, 10, 48, 0.87);
   border-color: rgba(149, 11, 54, 0.24);
@@ -51,28 +38,21 @@
   .clr\:red.tag .tag_append {
     color: rgba(255, 255, 255, 0.87);
     background-color: #d0104c; }
-
 .clr\:red.ribbon {
   border-right-color: #d0104c;
   border-left-color: #ed195b; }
-
 .clr\:red.timeline_item .timeline_axis:before {
   background-color: #d0104c; }
-
 .clr\:red.timeline_item.is\:on .timeline_axis:before {
   box-shadow: 0 0 0 2px #d0104c, inset 0 0 0 3px #ffffff; }
-
 .clr\:red.avatar:after {
   border-color: #d0104c; }
-
 .clr\:red.avatar .avatar_obj {
   color: rgba(255, 255, 255, 0.87);
   background-color: #d0104c; }
-
 .clr\:red.label {
   color: white;
   background-color: #d0104c; }
-
 .clr\:red.progress_bar {
   color: rgba(255, 255, 255, 0.87);
   background-color: #d0104c; }
@@ -84,21 +64,15 @@
   color: rgba(255, 255, 255, 0.87);
   background-color: #d0104c; }
 
-.clr\:orange.btn,
-.clr\:orange.btn-grp > .btn {
+.clr\:orange.btn, .clr\:orange.btn-grp > .btn {
   color: rgba(255, 255, 255, 0.87);
   background-color: #f75c2f; }
-  .clr\:orange.btn:hover, .clr\:orange.btn.is\:hover,
-  .clr\:orange.btn-grp > .btn:hover,
-  .clr\:orange.btn-grp > .btn.is\:hover {
+  .clr\:orange.btn:hover, .clr\:orange.btn.is\:hover, .clr\:orange.btn-grp > .btn:hover, .clr\:orange.btn-grp > .btn.is\:hover {
     background-color: #f64310; }
-  .clr\:orange.btn:active, .clr\:orange.btn.is\:on,
-  .clr\:orange.btn-grp > .btn:active,
-  .clr\:orange.btn-grp > .btn.is\:on {
+  .clr\:orange.btn:active, .clr\:orange.btn.is\:on, .clr\:orange.btn-grp > .btn:active, .clr\:orange.btn-grp > .btn.is\:on {
     color: rgba(255, 255, 255, 0.87);
     background-color: #ec3c09; }
-  .clr\:orange.btn > .badge,
-  .clr\:orange.btn-grp > .btn > .badge {
+  .clr\:orange.btn > .badge, .clr\:orange.btn-grp > .btn > .badge {
     /*
     hue: $hue;
     lightness: $lightness;
@@ -109,21 +83,14 @@
     //*/
     color: #f75c2f;
     background-color: rgba(255, 255, 255, 0.7); }
-
-.clr\:orange.btn-outline,
-.clr\:orange.btn-grp > .btn-outline {
+.clr\:orange.btn-outline, .clr\:orange.btn-grp > .btn-outline {
   color: #f75c2f;
   border-color: #f75c2f; }
-  .clr\:orange.btn-outline:hover, .clr\:orange.btn-outline:active, .clr\:orange.btn-outline.is\:on,
-  .clr\:orange.btn-grp > .btn-outline:hover,
-  .clr\:orange.btn-grp > .btn-outline:active,
-  .clr\:orange.btn-grp > .btn-outline.is\:on {
+  .clr\:orange.btn-outline:hover, .clr\:orange.btn-outline:active, .clr\:orange.btn-outline.is\:on, .clr\:orange.btn-grp > .btn-outline:hover, .clr\:orange.btn-grp > .btn-outline:active, .clr\:orange.btn-grp > .btn-outline.is\:on {
     background-color: rgba(247, 92, 47, 0.05); }
-  .clr\:orange.btn-outline > .badge,
-  .clr\:orange.btn-grp > .btn-outline > .badge {
+  .clr\:orange.btn-outline > .badge, .clr\:orange.btn-grp > .btn-outline > .badge {
     color: #f75c2f;
     border-color: #f75c2f; }
-
 .clr\:orange.tag {
   color: rgba(205, 52, 8, 0.87);
   border-color: rgba(222, 56, 9, 0.24);
@@ -131,28 +98,21 @@
   .clr\:orange.tag .tag_append {
     color: rgba(255, 255, 255, 0.87);
     background-color: #f75c2f; }
-
 .clr\:orange.ribbon {
   border-right-color: #f75c2f;
   border-left-color: #f87954; }
-
 .clr\:orange.timeline_item .timeline_axis:before {
   background-color: #f75c2f; }
-
 .clr\:orange.timeline_item.is\:on .timeline_axis:before {
   box-shadow: 0 0 0 2px #f75c2f, inset 0 0 0 3px #ffffff; }
-
 .clr\:orange.avatar:after {
   border-color: #f75c2f; }
-
 .clr\:orange.avatar .avatar_obj {
   color: rgba(255, 255, 255, 0.87);
   background-color: #f75c2f; }
-
 .clr\:orange.label {
   color: white;
   background-color: #f75c2f; }
-
 .clr\:orange.progress_bar {
   color: rgba(255, 255, 255, 0.87);
   background-color: #f75c2f; }
@@ -164,21 +124,15 @@
   color: rgba(255, 255, 255, 0.87);
   background-color: #f75c2f; }
 
-.clr\:fire.btn,
-.clr\:fire.btn-grp > .btn {
+.clr\:fire.btn, .clr\:fire.btn-grp > .btn {
   color: rgba(92, 69, 24, 0.87);
   background-color: #ffb11b; }
-  .clr\:fire.btn:hover, .clr\:fire.btn.is\:hover,
-  .clr\:fire.btn-grp > .btn:hover,
-  .clr\:fire.btn-grp > .btn.is\:hover {
+  .clr\:fire.btn:hover, .clr\:fire.btn.is\:hover, .clr\:fire.btn-grp > .btn:hover, .clr\:fire.btn-grp > .btn.is\:hover {
     background-color: #f9a400; }
-  .clr\:fire.btn:active, .clr\:fire.btn.is\:on,
-  .clr\:fire.btn-grp > .btn:active,
-  .clr\:fire.btn-grp > .btn.is\:on {
+  .clr\:fire.btn:active, .clr\:fire.btn.is\:on, .clr\:fire.btn-grp > .btn:active, .clr\:fire.btn-grp > .btn.is\:on {
     color: rgba(255, 255, 255, 0.87);
     background-color: #e99900; }
-  .clr\:fire.btn > .badge,
-  .clr\:fire.btn-grp > .btn > .badge {
+  .clr\:fire.btn > .badge, .clr\:fire.btn-grp > .btn > .badge {
     /*
     hue: $hue;
     lightness: $lightness;
@@ -189,21 +143,14 @@
     //*/
     color: rgba(92, 69, 24, 0.87);
     background-color: rgba(255, 255, 255, 0.7); }
-
-.clr\:fire.btn-outline,
-.clr\:fire.btn-grp > .btn-outline {
+.clr\:fire.btn-outline, .clr\:fire.btn-grp > .btn-outline {
   color: #ffb11b;
   border-color: #ffb11b; }
-  .clr\:fire.btn-outline:hover, .clr\:fire.btn-outline:active, .clr\:fire.btn-outline.is\:on,
-  .clr\:fire.btn-grp > .btn-outline:hover,
-  .clr\:fire.btn-grp > .btn-outline:active,
-  .clr\:fire.btn-grp > .btn-outline.is\:on {
+  .clr\:fire.btn-outline:hover, .clr\:fire.btn-outline:active, .clr\:fire.btn-outline.is\:on, .clr\:fire.btn-grp > .btn-outline:hover, .clr\:fire.btn-grp > .btn-outline:active, .clr\:fire.btn-grp > .btn-outline.is\:on {
     background-color: rgba(255, 177, 27, 0.05); }
-  .clr\:fire.btn-outline > .badge,
-  .clr\:fire.btn-grp > .btn-outline > .badge {
+  .clr\:fire.btn-outline > .badge, .clr\:fire.btn-grp > .btn-outline > .badge {
     color: #ffb11b;
     border-color: #ffb11b; }
-
 .clr\:fire.tag {
   color: rgba(144, 105, 30, 0.87);
   border-color: rgba(218, 144, 0, 0.24);
@@ -211,28 +158,21 @@
   .clr\:fire.tag .tag_append {
     color: rgba(92, 69, 24, 0.87);
     background-color: #ffb11b; }
-
 .clr\:fire.ribbon {
   border-right-color: #ffb11b;
   border-left-color: #ffbe41; }
-
 .clr\:fire.timeline_item .timeline_axis:before {
   background-color: #ffb11b; }
-
 .clr\:fire.timeline_item.is\:on .timeline_axis:before {
   box-shadow: 0 0 0 2px #ffb11b, inset 0 0 0 3px #ffffff; }
-
 .clr\:fire.avatar:after {
   border-color: #ffb11b; }
-
 .clr\:fire.avatar .avatar_obj {
   color: rgba(92, 69, 24, 0.87);
   background-color: #ffb11b; }
-
 .clr\:fire.label {
   color: rgba(92, 69, 24, 0.87);
   background-color: #ffb11b; }
-
 .clr\:fire.progress_bar {
   color: rgba(255, 255, 255, 0.87);
   background-color: #ffb11b; }
@@ -244,21 +184,15 @@
   color: rgba(92, 69, 24, 0.87);
   background-color: #ffb11b; }
 
-.clr\:yellow.btn,
-.clr\:yellow.btn-grp > .btn {
+.clr\:yellow.btn, .clr\:yellow.btn-grp > .btn {
   color: rgba(98, 90, 43, 0.87);
   background-color: #fbe251; }
-  .clr\:yellow.btn:hover, .clr\:yellow.btn.is\:hover,
-  .clr\:yellow.btn-grp > .btn:hover,
-  .clr\:yellow.btn-grp > .btn.is\:hover {
+  .clr\:yellow.btn:hover, .clr\:yellow.btn.is\:hover, .clr\:yellow.btn-grp > .btn:hover, .clr\:yellow.btn-grp > .btn.is\:hover {
     background-color: #fadd31; }
-  .clr\:yellow.btn:active, .clr\:yellow.btn.is\:on,
-  .clr\:yellow.btn-grp > .btn:active,
-  .clr\:yellow.btn-grp > .btn.is\:on {
+  .clr\:yellow.btn:active, .clr\:yellow.btn.is\:on, .clr\:yellow.btn-grp > .btn:active, .clr\:yellow.btn-grp > .btn.is\:on {
     color: rgba(0, 0, 0, 0.87);
     background-color: #fada21; }
-  .clr\:yellow.btn > .badge,
-  .clr\:yellow.btn-grp > .btn > .badge {
+  .clr\:yellow.btn > .badge, .clr\:yellow.btn-grp > .btn > .badge {
     /*
     hue: $hue;
     lightness: $lightness;
@@ -269,21 +203,14 @@
     //*/
     color: rgba(255, 255, 255, 0.87);
     background-color: rgba(122, 114, 60, 0.7); }
-
-.clr\:yellow.btn-outline,
-.clr\:yellow.btn-grp > .btn-outline {
+.clr\:yellow.btn-outline, .clr\:yellow.btn-grp > .btn-outline {
   color: #fbe251;
   border-color: #fbe251; }
-  .clr\:yellow.btn-outline:hover, .clr\:yellow.btn-outline:active, .clr\:yellow.btn-outline.is\:on,
-  .clr\:yellow.btn-grp > .btn-outline:hover,
-  .clr\:yellow.btn-grp > .btn-outline:active,
-  .clr\:yellow.btn-grp > .btn-outline.is\:on {
+  .clr\:yellow.btn-outline:hover, .clr\:yellow.btn-outline:active, .clr\:yellow.btn-outline.is\:on, .clr\:yellow.btn-grp > .btn-outline:hover, .clr\:yellow.btn-grp > .btn-outline:active, .clr\:yellow.btn-grp > .btn-outline.is\:on {
     background-color: rgba(251, 226, 81, 0.05); }
-  .clr\:yellow.btn-outline > .badge,
-  .clr\:yellow.btn-grp > .btn-outline > .badge {
+  .clr\:yellow.btn-outline > .badge, .clr\:yellow.btn-grp > .btn-outline > .badge {
     color: #fbe251;
     border-color: #fbe251; }
-
 .clr\:yellow.tag {
   color: rgba(142, 130, 57, 0.87);
   border-color: rgba(250, 216, 19, 0.24);
@@ -291,28 +218,21 @@
   .clr\:yellow.tag .tag_append {
     color: rgba(98, 90, 43, 0.87);
     background-color: #fbe251; }
-
 .clr\:yellow.ribbon {
   border-right-color: #fbe251;
   border-left-color: #fce876; }
-
 .clr\:yellow.timeline_item .timeline_axis:before {
   background-color: #fbe251; }
-
 .clr\:yellow.timeline_item.is\:on .timeline_axis:before {
   box-shadow: 0 0 0 2px #fbe251, inset 0 0 0 3px #ffffff; }
-
 .clr\:yellow.avatar:after {
   border-color: #fbe251; }
-
 .clr\:yellow.avatar .avatar_obj {
   color: rgba(98, 90, 43, 0.87);
   background-color: #fbe251; }
-
 .clr\:yellow.label {
   color: rgba(98, 90, 43, 0.87);
   background-color: #fbe251; }
-
 .clr\:yellow.progress_bar {
   color: rgba(93, 84, 32, 0.87);
   background-color: #fbe251; }
@@ -324,21 +244,15 @@
   color: rgba(98, 90, 43, 0.87);
   background-color: #fbe251; }
 
-.clr\:olive.btn,
-.clr\:olive.btn-grp > .btn {
+.clr\:olive.btn, .clr\:olive.btn-grp > .btn {
   color: rgba(255, 255, 255, 0.87);
   background-color: #86c166; }
-  .clr\:olive.btn:hover, .clr\:olive.btn.is\:hover,
-  .clr\:olive.btn-grp > .btn:hover,
-  .clr\:olive.btn-grp > .btn.is\:hover {
+  .clr\:olive.btn:hover, .clr\:olive.btn.is\:hover, .clr\:olive.btn-grp > .btn:hover, .clr\:olive.btn-grp > .btn.is\:hover {
     background-color: #74b84f; }
-  .clr\:olive.btn:active, .clr\:olive.btn.is\:on,
-  .clr\:olive.btn-grp > .btn:active,
-  .clr\:olive.btn-grp > .btn.is\:on {
+  .clr\:olive.btn:active, .clr\:olive.btn.is\:on, .clr\:olive.btn-grp > .btn:active, .clr\:olive.btn-grp > .btn.is\:on {
     color: rgba(255, 255, 255, 0.87);
     background-color: #6caf47; }
-  .clr\:olive.btn > .badge,
-  .clr\:olive.btn-grp > .btn > .badge {
+  .clr\:olive.btn > .badge, .clr\:olive.btn-grp > .btn > .badge {
     /*
     hue: $hue;
     lightness: $lightness;
@@ -349,21 +263,14 @@
     //*/
     color: #86c166;
     background-color: rgba(255, 255, 255, 0.7); }
-
-.clr\:olive.btn-outline,
-.clr\:olive.btn-grp > .btn-outline {
+.clr\:olive.btn-outline, .clr\:olive.btn-grp > .btn-outline {
   color: #86c166;
   border-color: #86c166; }
-  .clr\:olive.btn-outline:hover, .clr\:olive.btn-outline:active, .clr\:olive.btn-outline.is\:on,
-  .clr\:olive.btn-grp > .btn-outline:hover,
-  .clr\:olive.btn-grp > .btn-outline:active,
-  .clr\:olive.btn-grp > .btn-outline.is\:on {
+  .clr\:olive.btn-outline:hover, .clr\:olive.btn-outline:active, .clr\:olive.btn-outline.is\:on, .clr\:olive.btn-grp > .btn-outline:hover, .clr\:olive.btn-grp > .btn-outline:active, .clr\:olive.btn-grp > .btn-outline.is\:on {
     background-color: rgba(134, 193, 102, 0.05); }
-  .clr\:olive.btn-outline > .badge,
-  .clr\:olive.btn-grp > .btn-outline > .badge {
+  .clr\:olive.btn-outline > .badge, .clr\:olive.btn-grp > .btn-outline > .badge {
     color: #86c166;
     border-color: #86c166; }
-
 .clr\:olive.tag {
   color: rgba(93, 152, 62, 0.87);
   border-color: rgba(101, 165, 67, 0.24);
@@ -371,28 +278,21 @@
   .clr\:olive.tag .tag_append {
     color: rgba(255, 255, 255, 0.87);
     background-color: #86c166; }
-
 .clr\:olive.ribbon {
   border-right-color: #86c166;
   border-left-color: #9ccc81; }
-
 .clr\:olive.timeline_item .timeline_axis:before {
   background-color: #86c166; }
-
 .clr\:olive.timeline_item.is\:on .timeline_axis:before {
   box-shadow: 0 0 0 2px #86c166, inset 0 0 0 3px #ffffff; }
-
 .clr\:olive.avatar:after {
   border-color: #86c166; }
-
 .clr\:olive.avatar .avatar_obj {
   color: rgba(255, 255, 255, 0.87);
   background-color: #86c166; }
-
 .clr\:olive.label {
   color: white;
   background-color: #86c166; }
-
 .clr\:olive.progress_bar {
   color: rgba(255, 255, 255, 0.87);
   background-color: #86c166; }
@@ -404,21 +304,15 @@
   color: rgba(255, 255, 255, 0.87);
   background-color: #86c166; }
 
-.clr\:sapphire.btn,
-.clr\:sapphire.btn-grp > .btn {
+.clr\:sapphire.btn, .clr\:sapphire.btn-grp > .btn {
   color: rgba(255, 255, 255, 0.87);
   background-color: #66bab7; }
-  .clr\:sapphire.btn:hover, .clr\:sapphire.btn.is\:hover,
-  .clr\:sapphire.btn-grp > .btn:hover,
-  .clr\:sapphire.btn-grp > .btn.is\:hover {
+  .clr\:sapphire.btn:hover, .clr\:sapphire.btn.is\:hover, .clr\:sapphire.btn-grp > .btn:hover, .clr\:sapphire.btn-grp > .btn.is\:hover {
     background-color: #50b0ac; }
-  .clr\:sapphire.btn:active, .clr\:sapphire.btn.is\:on,
-  .clr\:sapphire.btn-grp > .btn:active,
-  .clr\:sapphire.btn-grp > .btn.is\:on {
+  .clr\:sapphire.btn:active, .clr\:sapphire.btn.is\:on, .clr\:sapphire.btn-grp > .btn:active, .clr\:sapphire.btn-grp > .btn.is\:on {
     color: rgba(255, 255, 255, 0.87);
     background-color: #4aa5a2; }
-  .clr\:sapphire.btn > .badge,
-  .clr\:sapphire.btn-grp > .btn > .badge {
+  .clr\:sapphire.btn > .badge, .clr\:sapphire.btn-grp > .btn > .badge {
     /*
     hue: $hue;
     lightness: $lightness;
@@ -429,21 +323,14 @@
     //*/
     color: #66bab7;
     background-color: rgba(255, 255, 255, 0.7); }
-
-.clr\:sapphire.btn-outline,
-.clr\:sapphire.btn-grp > .btn-outline {
+.clr\:sapphire.btn-outline, .clr\:sapphire.btn-grp > .btn-outline {
   color: #66bab7;
   border-color: #66bab7; }
-  .clr\:sapphire.btn-outline:hover, .clr\:sapphire.btn-outline:active, .clr\:sapphire.btn-outline.is\:on,
-  .clr\:sapphire.btn-grp > .btn-outline:hover,
-  .clr\:sapphire.btn-grp > .btn-outline:active,
-  .clr\:sapphire.btn-grp > .btn-outline.is\:on {
+  .clr\:sapphire.btn-outline:hover, .clr\:sapphire.btn-outline:active, .clr\:sapphire.btn-outline.is\:on, .clr\:sapphire.btn-grp > .btn-outline:hover, .clr\:sapphire.btn-grp > .btn-outline:active, .clr\:sapphire.btn-grp > .btn-outline.is\:on {
     background-color: rgba(102, 186, 183, 0.05); }
-  .clr\:sapphire.btn-outline > .badge,
-  .clr\:sapphire.btn-grp > .btn-outline > .badge {
+  .clr\:sapphire.btn-outline > .badge, .clr\:sapphire.btn-grp > .btn-outline > .badge {
     color: #66bab7;
     border-color: #66bab7; }
-
 .clr\:sapphire.tag {
   color: rgba(64, 142, 139, 0.87);
   border-color: rgba(70, 155, 152, 0.24);
@@ -451,28 +338,21 @@
   .clr\:sapphire.tag .tag_append {
     color: rgba(255, 255, 255, 0.87);
     background-color: #66bab7; }
-
 .clr\:sapphire.ribbon {
   border-right-color: #66bab7;
   border-left-color: #80c6c3; }
-
 .clr\:sapphire.timeline_item .timeline_axis:before {
   background-color: #66bab7; }
-
 .clr\:sapphire.timeline_item.is\:on .timeline_axis:before {
   box-shadow: 0 0 0 2px #66bab7, inset 0 0 0 3px #ffffff; }
-
 .clr\:sapphire.avatar:after {
   border-color: #66bab7; }
-
 .clr\:sapphire.avatar .avatar_obj {
   color: rgba(255, 255, 255, 0.87);
   background-color: #66bab7; }
-
 .clr\:sapphire.label {
   color: white;
   background-color: #66bab7; }
-
 .clr\:sapphire.progress_bar {
   color: rgba(255, 255, 255, 0.87);
   background-color: #66bab7; }
@@ -484,21 +364,15 @@
   color: rgba(255, 255, 255, 0.87);
   background-color: #66bab7; }
 
-.clr\:cyan.btn,
-.clr\:cyan.btn-grp > .btn {
+.clr\:cyan.btn, .clr\:cyan.btn-grp > .btn {
   color: rgba(255, 255, 255, 0.87);
   background-color: #2ea9df; }
-  .clr\:cyan.btn:hover, .clr\:cyan.btn.is\:hover,
-  .clr\:cyan.btn-grp > .btn:hover,
-  .clr\:cyan.btn-grp > .btn.is\:hover {
+  .clr\:cyan.btn:hover, .clr\:cyan.btn.is\:hover, .clr\:cyan.btn-grp > .btn:hover, .clr\:cyan.btn-grp > .btn.is\:hover {
     background-color: #1f98cd; }
-  .clr\:cyan.btn:active, .clr\:cyan.btn.is\:on,
-  .clr\:cyan.btn-grp > .btn:active,
-  .clr\:cyan.btn-grp > .btn.is\:on {
+  .clr\:cyan.btn:active, .clr\:cyan.btn.is\:on, .clr\:cyan.btn-grp > .btn:active, .clr\:cyan.btn-grp > .btn.is\:on {
     color: rgba(255, 255, 255, 0.87);
     background-color: #1d8ebf; }
-  .clr\:cyan.btn > .badge,
-  .clr\:cyan.btn-grp > .btn > .badge {
+  .clr\:cyan.btn > .badge, .clr\:cyan.btn-grp > .btn > .badge {
     /*
     hue: $hue;
     lightness: $lightness;
@@ -509,21 +383,14 @@
     //*/
     color: #2ea9df;
     background-color: rgba(255, 255, 255, 0.7); }
-
-.clr\:cyan.btn-outline,
-.clr\:cyan.btn-grp > .btn-outline {
+.clr\:cyan.btn-outline, .clr\:cyan.btn-grp > .btn-outline {
   color: #2ea9df;
   border-color: #2ea9df; }
-  .clr\:cyan.btn-outline:hover, .clr\:cyan.btn-outline:active, .clr\:cyan.btn-outline.is\:on,
-  .clr\:cyan.btn-grp > .btn-outline:hover,
-  .clr\:cyan.btn-grp > .btn-outline:active,
-  .clr\:cyan.btn-grp > .btn-outline.is\:on {
+  .clr\:cyan.btn-outline:hover, .clr\:cyan.btn-outline:active, .clr\:cyan.btn-outline.is\:on, .clr\:cyan.btn-grp > .btn-outline:hover, .clr\:cyan.btn-grp > .btn-outline:active, .clr\:cyan.btn-grp > .btn-outline.is\:on {
     background-color: rgba(46, 169, 223, 0.05); }
-  .clr\:cyan.btn-outline > .badge,
-  .clr\:cyan.btn-grp > .btn-outline > .badge {
+  .clr\:cyan.btn-outline > .badge, .clr\:cyan.btn-grp > .btn-outline > .badge {
     color: #2ea9df;
     border-color: #2ea9df; }
-
 .clr\:cyan.tag {
   color: rgba(25, 121, 163, 0.87);
   border-color: rgba(27, 132, 178, 0.24);
@@ -531,28 +398,21 @@
   .clr\:cyan.tag .tag_append {
     color: rgba(255, 255, 255, 0.87);
     background-color: #2ea9df; }
-
 .clr\:cyan.ribbon {
   border-right-color: #2ea9df;
   border-left-color: #4fb7e4; }
-
 .clr\:cyan.timeline_item .timeline_axis:before {
   background-color: #2ea9df; }
-
 .clr\:cyan.timeline_item.is\:on .timeline_axis:before {
   box-shadow: 0 0 0 2px #2ea9df, inset 0 0 0 3px #ffffff; }
-
 .clr\:cyan.avatar:after {
   border-color: #2ea9df; }
-
 .clr\:cyan.avatar .avatar_obj {
   color: rgba(255, 255, 255, 0.87);
   background-color: #2ea9df; }
-
 .clr\:cyan.label {
   color: white;
   background-color: #2ea9df; }
-
 .clr\:cyan.progress_bar {
   color: rgba(255, 255, 255, 0.87);
   background-color: #2ea9df; }
@@ -564,21 +424,15 @@
   color: rgba(255, 255, 255, 0.87);
   background-color: #2ea9df; }
 
-.clr\:magenta.btn,
-.clr\:magenta.btn-grp > .btn {
+.clr\:magenta.btn, .clr\:magenta.btn-grp > .btn {
   color: rgba(255, 255, 255, 0.87);
   background-color: #c1328e; }
-  .clr\:magenta.btn:hover, .clr\:magenta.btn.is\:hover,
-  .clr\:magenta.btn-grp > .btn:hover,
-  .clr\:magenta.btn-grp > .btn.is\:hover {
+  .clr\:magenta.btn:hover, .clr\:magenta.btn.is\:hover, .clr\:magenta.btn-grp > .btn:hover, .clr\:magenta.btn-grp > .btn.is\:hover {
     background-color: #a72b7b; }
-  .clr\:magenta.btn:active, .clr\:magenta.btn.is\:on,
-  .clr\:magenta.btn-grp > .btn:active,
-  .clr\:magenta.btn-grp > .btn.is\:on {
+  .clr\:magenta.btn:active, .clr\:magenta.btn.is\:on, .clr\:magenta.btn-grp > .btn:active, .clr\:magenta.btn-grp > .btn.is\:on {
     color: rgba(255, 255, 255, 0.87);
     background-color: #9a2871; }
-  .clr\:magenta.btn > .badge,
-  .clr\:magenta.btn-grp > .btn > .badge {
+  .clr\:magenta.btn > .badge, .clr\:magenta.btn-grp > .btn > .badge {
     /*
     hue: $hue;
     lightness: $lightness;
@@ -589,21 +443,14 @@
     //*/
     color: #c1328e;
     background-color: rgba(255, 255, 255, 0.7); }
-
-.clr\:magenta.btn-outline,
-.clr\:magenta.btn-grp > .btn-outline {
+.clr\:magenta.btn-outline, .clr\:magenta.btn-grp > .btn-outline {
   color: #c1328e;
   border-color: #c1328e; }
-  .clr\:magenta.btn-outline:hover, .clr\:magenta.btn-outline:active, .clr\:magenta.btn-outline.is\:on,
-  .clr\:magenta.btn-grp > .btn-outline:hover,
-  .clr\:magenta.btn-grp > .btn-outline:active,
-  .clr\:magenta.btn-grp > .btn-outline.is\:on {
+  .clr\:magenta.btn-outline:hover, .clr\:magenta.btn-outline:active, .clr\:magenta.btn-outline.is\:on, .clr\:magenta.btn-grp > .btn-outline:hover, .clr\:magenta.btn-grp > .btn-outline:active, .clr\:magenta.btn-grp > .btn-outline.is\:on {
     background-color: rgba(193, 50, 142, 0.05); }
-  .clr\:magenta.btn-outline > .badge,
-  .clr\:magenta.btn-grp > .btn-outline > .badge {
+  .clr\:magenta.btn-outline > .badge, .clr\:magenta.btn-grp > .btn-outline > .badge {
     color: #c1328e;
     border-color: #c1328e; }
-
 .clr\:magenta.tag {
   color: rgba(128, 33, 94, 0.87);
   border-color: rgba(142, 37, 105, 0.24);
@@ -611,28 +458,21 @@
   .clr\:magenta.tag .tag_append {
     color: rgba(255, 255, 255, 0.87);
     background-color: #c1328e; }
-
 .clr\:magenta.ribbon {
   border-right-color: #c1328e;
   border-left-color: #d049a0; }
-
 .clr\:magenta.timeline_item .timeline_axis:before {
   background-color: #c1328e; }
-
 .clr\:magenta.timeline_item.is\:on .timeline_axis:before {
   box-shadow: 0 0 0 2px #c1328e, inset 0 0 0 3px #ffffff; }
-
 .clr\:magenta.avatar:after {
   border-color: #c1328e; }
-
 .clr\:magenta.avatar .avatar_obj {
   color: rgba(255, 255, 255, 0.87);
   background-color: #c1328e; }
-
 .clr\:magenta.label {
   color: white;
   background-color: #c1328e; }
-
 .clr\:magenta.progress_bar {
   color: rgba(255, 255, 255, 0.87);
   background-color: #c1328e; }
@@ -644,21 +484,15 @@
   color: rgba(255, 255, 255, 0.87);
   background-color: #c1328e; }
 
-.clr\:bone.btn,
-.clr\:bone.btn-grp > .btn {
+.clr\:bone.btn, .clr\:bone.btn-grp > .btn {
   color: rgba(255, 255, 255, 0.87);
   background-color: #b19693; }
-  .clr\:bone.btn:hover, .clr\:bone.btn.is\:hover,
-  .clr\:bone.btn-grp > .btn:hover,
-  .clr\:bone.btn-grp > .btn.is\:hover {
+  .clr\:bone.btn:hover, .clr\:bone.btn.is\:hover, .clr\:bone.btn-grp > .btn:hover, .clr\:bone.btn-grp > .btn.is\:hover {
     background-color: #a38480; }
-  .clr\:bone.btn:active, .clr\:bone.btn.is\:on,
-  .clr\:bone.btn-grp > .btn:active,
-  .clr\:bone.btn-grp > .btn.is\:on {
+  .clr\:bone.btn:active, .clr\:bone.btn.is\:on, .clr\:bone.btn-grp > .btn:active, .clr\:bone.btn-grp > .btn.is\:on {
     color: rgba(255, 255, 255, 0.87);
     background-color: #9c7a77; }
-  .clr\:bone.btn > .badge,
-  .clr\:bone.btn-grp > .btn > .badge {
+  .clr\:bone.btn > .badge, .clr\:bone.btn-grp > .btn > .badge {
     /*
     hue: $hue;
     lightness: $lightness;
@@ -669,21 +503,14 @@
     //*/
     color: #b19693;
     background-color: rgba(255, 255, 255, 0.7); }
-
-.clr\:bone.btn-outline,
-.clr\:bone.btn-grp > .btn-outline {
+.clr\:bone.btn-outline, .clr\:bone.btn-grp > .btn-outline {
   color: #b19693;
   border-color: #b19693; }
-  .clr\:bone.btn-outline:hover, .clr\:bone.btn-outline:active, .clr\:bone.btn-outline.is\:on,
-  .clr\:bone.btn-grp > .btn-outline:hover,
-  .clr\:bone.btn-grp > .btn-outline:active,
-  .clr\:bone.btn-grp > .btn-outline.is\:on {
+  .clr\:bone.btn-outline:hover, .clr\:bone.btn-outline:active, .clr\:bone.btn-outline.is\:on, .clr\:bone.btn-grp > .btn-outline:hover, .clr\:bone.btn-grp > .btn-outline:active, .clr\:bone.btn-grp > .btn-outline.is\:on {
     background-color: rgba(177, 150, 147, 0.05); }
-  .clr\:bone.btn-outline > .badge,
-  .clr\:bone.btn-grp > .btn-outline > .badge {
+  .clr\:bone.btn-outline > .badge, .clr\:bone.btn-grp > .btn-outline > .badge {
     color: #b19693;
     border-color: #b19693; }
-
 .clr\:bone.tag {
   color: rgba(141, 106, 102, 0.87);
   border-color: rgba(150, 114, 110, 0.24);
@@ -691,28 +518,21 @@
   .clr\:bone.tag .tag_append {
     color: rgba(255, 255, 255, 0.87);
     background-color: #b19693; }
-
 .clr\:bone.ribbon {
   border-right-color: #b19693;
   border-left-color: #c1aca9; }
-
 .clr\:bone.timeline_item .timeline_axis:before {
   background-color: #b19693; }
-
 .clr\:bone.timeline_item.is\:on .timeline_axis:before {
   box-shadow: 0 0 0 2px #b19693, inset 0 0 0 3px #ffffff; }
-
 .clr\:bone.avatar:after {
   border-color: #b19693; }
-
 .clr\:bone.avatar .avatar_obj {
   color: rgba(255, 255, 255, 0.87);
   background-color: #b19693; }
-
 .clr\:bone.label {
   color: white;
   background-color: #b19693; }
-
 .clr\:bone.progress_bar {
   color: rgba(255, 255, 255, 0.87);
   background-color: #b19693; }
@@ -724,21 +544,15 @@
   color: rgba(255, 255, 255, 0.87);
   background-color: #b19693; }
 
-.clr\:silver.btn,
-.clr\:silver.btn-grp > .btn {
+.clr\:silver.btn, .clr\:silver.btn-grp > .btn {
   color: rgba(82, 83, 82, 0.87);
   background-color: #bdc0ba; }
-  .clr\:silver.btn:hover, .clr\:silver.btn.is\:hover,
-  .clr\:silver.btn-grp > .btn:hover,
-  .clr\:silver.btn-grp > .btn.is\:hover {
+  .clr\:silver.btn:hover, .clr\:silver.btn.is\:hover, .clr\:silver.btn-grp > .btn:hover, .clr\:silver.btn-grp > .btn.is\:hover {
     background-color: #adb0a9; }
-  .clr\:silver.btn:active, .clr\:silver.btn.is\:on,
-  .clr\:silver.btn-grp > .btn:active,
-  .clr\:silver.btn-grp > .btn.is\:on {
+  .clr\:silver.btn:active, .clr\:silver.btn.is\:on, .clr\:silver.btn-grp > .btn:active, .clr\:silver.btn-grp > .btn.is\:on {
     color: rgba(0, 0, 0, 0.87);
     background-color: #a5a9a0; }
-  .clr\:silver.btn > .badge,
-  .clr\:silver.btn-grp > .btn > .badge {
+  .clr\:silver.btn > .badge, .clr\:silver.btn-grp > .btn > .badge {
     /*
     hue: $hue;
     lightness: $lightness;
@@ -749,21 +563,14 @@
     //*/
     color: rgba(82, 83, 82, 0.87);
     background-color: rgba(255, 255, 255, 0.7); }
-
-.clr\:silver.btn-outline,
-.clr\:silver.btn-grp > .btn-outline {
+.clr\:silver.btn-outline, .clr\:silver.btn-grp > .btn-outline {
   color: #bdc0ba;
   border-color: #bdc0ba; }
-  .clr\:silver.btn-outline:hover, .clr\:silver.btn-outline:active, .clr\:silver.btn-outline.is\:on,
-  .clr\:silver.btn-grp > .btn-outline:hover,
-  .clr\:silver.btn-grp > .btn-outline:active,
-  .clr\:silver.btn-grp > .btn-outline.is\:on {
+  .clr\:silver.btn-outline:hover, .clr\:silver.btn-outline:active, .clr\:silver.btn-outline.is\:on, .clr\:silver.btn-grp > .btn-outline:hover, .clr\:silver.btn-grp > .btn-outline:active, .clr\:silver.btn-grp > .btn-outline.is\:on {
     background-color: rgba(189, 192, 186, 0.05); }
-  .clr\:silver.btn-outline > .badge,
-  .clr\:silver.btn-grp > .btn-outline > .badge {
+  .clr\:silver.btn-outline > .badge, .clr\:silver.btn-grp > .btn-outline > .badge {
     color: #bdc0ba;
     border-color: #bdc0ba; }
-
 .clr\:silver.tag {
   color: rgba(111, 113, 110, 0.87);
   border-color: rgba(157, 162, 153, 0.24);
@@ -771,28 +578,21 @@
   .clr\:silver.tag .tag_append {
     color: rgba(82, 83, 82, 0.87);
     background-color: #bdc0ba; }
-
 .clr\:silver.ribbon {
   border-right-color: #bdc0ba;
   border-left-color: #d0d2ce; }
-
 .clr\:silver.timeline_item .timeline_axis:before {
   background-color: #bdc0ba; }
-
 .clr\:silver.timeline_item.is\:on .timeline_axis:before {
   box-shadow: 0 0 0 2px #bdc0ba, inset 0 0 0 3px #ffffff; }
-
 .clr\:silver.avatar:after {
   border-color: #bdc0ba; }
-
 .clr\:silver.avatar .avatar_obj {
   color: rgba(82, 83, 82, 0.87);
   background-color: #bdc0ba; }
-
 .clr\:silver.label {
   color: rgba(82, 83, 82, 0.87);
   background-color: #bdc0ba; }
-
 .clr\:silver.progress_bar {
   color: rgba(74, 75, 74, 0.87);
   background-color: #bdc0ba; }
@@ -804,21 +604,15 @@
   color: rgba(82, 83, 82, 0.87);
   background-color: #bdc0ba; }
 
-.clr\:momo.btn,
-.clr\:momo.btn-grp > .btn {
+.clr\:momo.btn, .clr\:momo.btn-grp > .btn {
   color: rgba(255, 255, 255, 0.87);
   background-color: #f596aa; }
-  .clr\:momo.btn:hover, .clr\:momo.btn.is\:hover,
-  .clr\:momo.btn-grp > .btn:hover,
-  .clr\:momo.btn-grp > .btn.is\:hover {
+  .clr\:momo.btn:hover, .clr\:momo.btn.is\:hover, .clr\:momo.btn-grp > .btn:hover, .clr\:momo.btn-grp > .btn.is\:hover {
     background-color: #f27892; }
-  .clr\:momo.btn:active, .clr\:momo.btn.is\:on,
-  .clr\:momo.btn-grp > .btn:active,
-  .clr\:momo.btn-grp > .btn.is\:on {
+  .clr\:momo.btn:active, .clr\:momo.btn.is\:on, .clr\:momo.btn-grp > .btn:active, .clr\:momo.btn-grp > .btn.is\:on {
     color: rgba(255, 255, 255, 0.87);
     background-color: #f16986; }
-  .clr\:momo.btn > .badge,
-  .clr\:momo.btn-grp > .btn > .badge {
+  .clr\:momo.btn > .badge, .clr\:momo.btn-grp > .btn > .badge {
     /*
     hue: $hue;
     lightness: $lightness;
@@ -829,21 +623,14 @@
     //*/
     color: #f596aa;
     background-color: rgba(255, 255, 255, 0.7); }
-
-.clr\:momo.btn-outline,
-.clr\:momo.btn-grp > .btn-outline {
+.clr\:momo.btn-outline, .clr\:momo.btn-grp > .btn-outline {
   color: #f596aa;
   border-color: #f596aa; }
-  .clr\:momo.btn-outline:hover, .clr\:momo.btn-outline:active, .clr\:momo.btn-outline.is\:on,
-  .clr\:momo.btn-grp > .btn-outline:hover,
-  .clr\:momo.btn-grp > .btn-outline:active,
-  .clr\:momo.btn-grp > .btn-outline.is\:on {
+  .clr\:momo.btn-outline:hover, .clr\:momo.btn-outline:active, .clr\:momo.btn-outline.is\:on, .clr\:momo.btn-grp > .btn-outline:hover, .clr\:momo.btn-grp > .btn-outline:active, .clr\:momo.btn-grp > .btn-outline.is\:on {
     background-color: rgba(245, 150, 170, 0.05); }
-  .clr\:momo.btn-outline > .badge,
-  .clr\:momo.btn-grp > .btn-outline > .badge {
+  .clr\:momo.btn-outline > .badge, .clr\:momo.btn-grp > .btn-outline > .badge {
     color: #f596aa;
     border-color: #f596aa; }
-
 .clr\:momo.tag {
   color: rgba(238, 75, 110, 0.87);
   border-color: rgba(239, 92, 123, 0.24);
@@ -851,28 +638,21 @@
   .clr\:momo.tag .tag_append {
     color: rgba(255, 255, 255, 0.87);
     background-color: #f596aa; }
-
 .clr\:momo.ribbon {
   border-right-color: #f596aa;
   border-left-color: #f8b9c6; }
-
 .clr\:momo.timeline_item .timeline_axis:before {
   background-color: #f596aa; }
-
 .clr\:momo.timeline_item.is\:on .timeline_axis:before {
   box-shadow: 0 0 0 2px #f596aa, inset 0 0 0 3px #ffffff; }
-
 .clr\:momo.avatar:after {
   border-color: #f596aa; }
-
 .clr\:momo.avatar .avatar_obj {
   color: rgba(255, 255, 255, 0.87);
   background-color: #f596aa; }
-
 .clr\:momo.label {
   color: white;
   background-color: #f596aa; }
-
 .clr\:momo.progress_bar {
   color: rgba(255, 255, 255, 0.87);
   background-color: #f596aa; }
@@ -884,21 +664,15 @@
   color: rgba(255, 255, 255, 0.87);
   background-color: #f596aa; }
 
-.clr\:rosewood.btn,
-.clr\:rosewood.btn-grp > .btn {
+.clr\:rosewood.btn, .clr\:rosewood.btn-grp > .btn {
   color: rgba(255, 255, 255, 0.87);
   background-color: #b5495b; }
-  .clr\:rosewood.btn:hover, .clr\:rosewood.btn.is\:hover,
-  .clr\:rosewood.btn-grp > .btn:hover,
-  .clr\:rosewood.btn-grp > .btn.is\:hover {
+  .clr\:rosewood.btn:hover, .clr\:rosewood.btn.is\:hover, .clr\:rosewood.btn-grp > .btn:hover, .clr\:rosewood.btn-grp > .btn.is\:hover {
     background-color: #9e404f; }
-  .clr\:rosewood.btn:active, .clr\:rosewood.btn.is\:on,
-  .clr\:rosewood.btn-grp > .btn:active,
-  .clr\:rosewood.btn-grp > .btn.is\:on {
+  .clr\:rosewood.btn:active, .clr\:rosewood.btn.is\:on, .clr\:rosewood.btn-grp > .btn:active, .clr\:rosewood.btn-grp > .btn.is\:on {
     color: rgba(255, 255, 255, 0.87);
     background-color: #923b49; }
-  .clr\:rosewood.btn > .badge,
-  .clr\:rosewood.btn-grp > .btn > .badge {
+  .clr\:rosewood.btn > .badge, .clr\:rosewood.btn-grp > .btn > .badge {
     /*
     hue: $hue;
     lightness: $lightness;
@@ -909,21 +683,14 @@
     //*/
     color: #b5495b;
     background-color: rgba(255, 255, 255, 0.7); }
-
-.clr\:rosewood.btn-outline,
-.clr\:rosewood.btn-grp > .btn-outline {
+.clr\:rosewood.btn-outline, .clr\:rosewood.btn-grp > .btn-outline {
   color: #b5495b;
   border-color: #b5495b; }
-  .clr\:rosewood.btn-outline:hover, .clr\:rosewood.btn-outline:active, .clr\:rosewood.btn-outline.is\:on,
-  .clr\:rosewood.btn-grp > .btn-outline:hover,
-  .clr\:rosewood.btn-grp > .btn-outline:active,
-  .clr\:rosewood.btn-grp > .btn-outline.is\:on {
+  .clr\:rosewood.btn-outline:hover, .clr\:rosewood.btn-outline:active, .clr\:rosewood.btn-outline.is\:on, .clr\:rosewood.btn-grp > .btn-outline:hover, .clr\:rosewood.btn-grp > .btn-outline:active, .clr\:rosewood.btn-grp > .btn-outline.is\:on {
     background-color: rgba(181, 73, 91, 0.05); }
-  .clr\:rosewood.btn-outline > .badge,
-  .clr\:rosewood.btn-grp > .btn-outline > .badge {
+  .clr\:rosewood.btn-outline > .badge, .clr\:rosewood.btn-grp > .btn-outline > .badge {
     color: #b5495b;
     border-color: #b5495b; }
-
 .clr\:rosewood.tag {
   color: rgba(123, 50, 62, 0.87);
   border-color: rgba(136, 55, 68, 0.24);
@@ -931,28 +698,21 @@
   .clr\:rosewood.tag .tag_append {
     color: rgba(255, 255, 255, 0.87);
     background-color: #b5495b; }
-
 .clr\:rosewood.ribbon {
   border-right-color: #b5495b;
   border-left-color: #c06473; }
-
 .clr\:rosewood.timeline_item .timeline_axis:before {
   background-color: #b5495b; }
-
 .clr\:rosewood.timeline_item.is\:on .timeline_axis:before {
   box-shadow: 0 0 0 2px #b5495b, inset 0 0 0 3px #ffffff; }
-
 .clr\:rosewood.avatar:after {
   border-color: #b5495b; }
-
 .clr\:rosewood.avatar .avatar_obj {
   color: rgba(255, 255, 255, 0.87);
   background-color: #b5495b; }
-
 .clr\:rosewood.label {
   color: white;
   background-color: #b5495b; }
-
 .clr\:rosewood.progress_bar {
   color: rgba(255, 255, 255, 0.87);
   background-color: #b5495b; }
@@ -964,21 +724,15 @@
   color: rgba(255, 255, 255, 0.87);
   background-color: #b5495b; }
 
-.clr\:skin.btn,
-.clr\:skin.btn-grp > .btn {
+.clr\:skin.btn, .clr\:skin.btn-grp > .btn {
   color: rgba(255, 255, 255, 0.87);
   background-color: #d7b98e; }
-  .clr\:skin.btn:hover, .clr\:skin.btn.is\:hover,
-  .clr\:skin.btn-grp > .btn:hover,
-  .clr\:skin.btn-grp > .btn.is\:hover {
+  .clr\:skin.btn:hover, .clr\:skin.btn.is\:hover, .clr\:skin.btn-grp > .btn:hover, .clr\:skin.btn-grp > .btn.is\:hover {
     background-color: #ceaa76; }
-  .clr\:skin.btn:active, .clr\:skin.btn.is\:on,
-  .clr\:skin.btn-grp > .btn:active,
-  .clr\:skin.btn-grp > .btn.is\:on {
+  .clr\:skin.btn:active, .clr\:skin.btn.is\:on, .clr\:skin.btn-grp > .btn:active, .clr\:skin.btn-grp > .btn.is\:on {
     color: rgba(255, 255, 255, 0.87);
     background-color: #caa36a; }
-  .clr\:skin.btn > .badge,
-  .clr\:skin.btn-grp > .btn > .badge {
+  .clr\:skin.btn > .badge, .clr\:skin.btn-grp > .btn > .badge {
     /*
     hue: $hue;
     lightness: $lightness;
@@ -989,21 +743,14 @@
     //*/
     color: #d7b98e;
     background-color: rgba(255, 255, 255, 0.7); }
-
-.clr\:skin.btn-outline,
-.clr\:skin.btn-grp > .btn-outline {
+.clr\:skin.btn-outline, .clr\:skin.btn-grp > .btn-outline {
   color: #d7b98e;
   border-color: #d7b98e; }
-  .clr\:skin.btn-outline:hover, .clr\:skin.btn-outline:active, .clr\:skin.btn-outline.is\:on,
-  .clr\:skin.btn-grp > .btn-outline:hover,
-  .clr\:skin.btn-grp > .btn-outline:active,
-  .clr\:skin.btn-grp > .btn-outline.is\:on {
+  .clr\:skin.btn-outline:hover, .clr\:skin.btn-outline:active, .clr\:skin.btn-outline.is\:on, .clr\:skin.btn-grp > .btn-outline:hover, .clr\:skin.btn-grp > .btn-outline:active, .clr\:skin.btn-grp > .btn-outline.is\:on {
     background-color: rgba(215, 185, 142, 0.05); }
-  .clr\:skin.btn-outline > .badge,
-  .clr\:skin.btn-grp > .btn-outline > .badge {
+  .clr\:skin.btn-outline > .badge, .clr\:skin.btn-grp > .btn-outline > .badge {
     color: #d7b98e;
     border-color: #d7b98e; }
-
 .clr\:skin.tag {
   color: rgba(194, 148, 82, 0.87);
   border-color: rgba(198, 156, 95, 0.24);
@@ -1011,28 +758,21 @@
   .clr\:skin.tag .tag_append {
     color: rgba(255, 255, 255, 0.87);
     background-color: #d7b98e; }
-
 .clr\:skin.ribbon {
   border-right-color: #d7b98e;
   border-left-color: #e1cbaa; }
-
 .clr\:skin.timeline_item .timeline_axis:before {
   background-color: #d7b98e; }
-
 .clr\:skin.timeline_item.is\:on .timeline_axis:before {
   box-shadow: 0 0 0 2px #d7b98e, inset 0 0 0 3px #ffffff; }
-
 .clr\:skin.avatar:after {
   border-color: #d7b98e; }
-
 .clr\:skin.avatar .avatar_obj {
   color: rgba(255, 255, 255, 0.87);
   background-color: #d7b98e; }
-
 .clr\:skin.label {
   color: white;
   background-color: #d7b98e; }
-
 .clr\:skin.progress_bar {
   color: rgba(255, 255, 255, 0.87);
   background-color: #d7b98e; }
@@ -1044,21 +784,15 @@
   color: rgba(255, 255, 255, 0.87);
   background-color: #d7b98e; }
 
-.clr\:chartreuse.btn,
-.clr\:chartreuse.btn-grp > .btn {
+.clr\:chartreuse.btn, .clr\:chartreuse.btn-grp > .btn {
   color: rgba(69, 71, 33, 0.87);
   background-color: #bec23f; }
-  .clr\:chartreuse.btn:hover, .clr\:chartreuse.btn.is\:hover,
-  .clr\:chartreuse.btn-grp > .btn:hover,
-  .clr\:chartreuse.btn-grp > .btn.is\:hover {
+  .clr\:chartreuse.btn:hover, .clr\:chartreuse.btn.is\:hover, .clr\:chartreuse.btn-grp > .btn:hover, .clr\:chartreuse.btn-grp > .btn.is\:hover {
     background-color: #a7aa36; }
-  .clr\:chartreuse.btn:active, .clr\:chartreuse.btn.is\:on,
-  .clr\:chartreuse.btn-grp > .btn:active,
-  .clr\:chartreuse.btn-grp > .btn.is\:on {
+  .clr\:chartreuse.btn:active, .clr\:chartreuse.btn.is\:on, .clr\:chartreuse.btn-grp > .btn:active, .clr\:chartreuse.btn-grp > .btn.is\:on {
     color: rgba(255, 255, 255, 0.87);
     background-color: #9b9e32; }
-  .clr\:chartreuse.btn > .badge,
-  .clr\:chartreuse.btn-grp > .btn > .badge {
+  .clr\:chartreuse.btn > .badge, .clr\:chartreuse.btn-grp > .btn > .badge {
     /*
     hue: $hue;
     lightness: $lightness;
@@ -1069,21 +803,14 @@
     //*/
     color: rgba(69, 71, 33, 0.87);
     background-color: rgba(255, 255, 255, 0.7); }
-
-.clr\:chartreuse.btn-outline,
-.clr\:chartreuse.btn-grp > .btn-outline {
+.clr\:chartreuse.btn-outline, .clr\:chartreuse.btn-grp > .btn-outline {
   color: #bec23f;
   border-color: #bec23f; }
-  .clr\:chartreuse.btn-outline:hover, .clr\:chartreuse.btn-outline:active, .clr\:chartreuse.btn-outline.is\:on,
-  .clr\:chartreuse.btn-grp > .btn-outline:hover,
-  .clr\:chartreuse.btn-grp > .btn-outline:active,
-  .clr\:chartreuse.btn-grp > .btn-outline.is\:on {
+  .clr\:chartreuse.btn-outline:hover, .clr\:chartreuse.btn-outline:active, .clr\:chartreuse.btn-outline.is\:on, .clr\:chartreuse.btn-grp > .btn-outline:hover, .clr\:chartreuse.btn-grp > .btn-outline:active, .clr\:chartreuse.btn-grp > .btn-outline.is\:on {
     background-color: rgba(190, 194, 63, 0.05); }
-  .clr\:chartreuse.btn-outline > .badge,
-  .clr\:chartreuse.btn-grp > .btn-outline > .badge {
+  .clr\:chartreuse.btn-outline > .badge, .clr\:chartreuse.btn-grp > .btn-outline > .badge {
     color: #bec23f;
     border-color: #bec23f; }
-
 .clr\:chartreuse.tag {
   color: rgba(112, 114, 48, 0.87);
   border-color: rgba(144, 147, 47, 0.24);
@@ -1091,28 +818,21 @@
   .clr\:chartreuse.tag .tag_append {
     color: rgba(69, 71, 33, 0.87);
     background-color: #bec23f; }
-
 .clr\:chartreuse.ribbon {
   border-right-color: #bec23f;
   border-left-color: #c8cb5c; }
-
 .clr\:chartreuse.timeline_item .timeline_axis:before {
   background-color: #bec23f; }
-
 .clr\:chartreuse.timeline_item.is\:on .timeline_axis:before {
   box-shadow: 0 0 0 2px #bec23f, inset 0 0 0 3px #ffffff; }
-
 .clr\:chartreuse.avatar:after {
   border-color: #bec23f; }
-
 .clr\:chartreuse.avatar .avatar_obj {
   color: rgba(69, 71, 33, 0.87);
   background-color: #bec23f; }
-
 .clr\:chartreuse.label {
   color: rgba(69, 71, 33, 0.87);
   background-color: #bec23f; }
-
 .clr\:chartreuse.progress_bar {
   color: rgba(255, 255, 255, 0.87);
   background-color: #bec23f; }
@@ -1124,21 +844,15 @@
   color: rgba(69, 71, 33, 0.87);
   background-color: #bec23f; }
 
-.clr\:green.btn,
-.clr\:green.btn-grp > .btn {
+.clr\:green.btn, .clr\:green.btn-grp > .btn {
   color: rgba(255, 255, 255, 0.87);
   background-color: #1b813e; }
-  .clr\:green.btn:hover, .clr\:green.btn.is\:hover,
-  .clr\:green.btn-grp > .btn:hover,
-  .clr\:green.btn-grp > .btn.is\:hover {
+  .clr\:green.btn:hover, .clr\:green.btn.is\:hover, .clr\:green.btn-grp > .btn:hover, .clr\:green.btn-grp > .btn.is\:hover {
     background-color: #156631; }
-  .clr\:green.btn:active, .clr\:green.btn.is\:on,
-  .clr\:green.btn-grp > .btn:active,
-  .clr\:green.btn-grp > .btn.is\:on {
+  .clr\:green.btn:active, .clr\:green.btn.is\:on, .clr\:green.btn-grp > .btn:active, .clr\:green.btn-grp > .btn.is\:on {
     color: rgba(255, 255, 255, 0.87);
     background-color: #13592b; }
-  .clr\:green.btn > .badge,
-  .clr\:green.btn-grp > .btn > .badge {
+  .clr\:green.btn > .badge, .clr\:green.btn-grp > .btn > .badge {
     /*
     hue: $hue;
     lightness: $lightness;
@@ -1149,21 +863,14 @@
     //*/
     color: #1b813e;
     background-color: rgba(255, 255, 255, 0.7); }
-
-.clr\:green.btn-outline,
-.clr\:green.btn-grp > .btn-outline {
+.clr\:green.btn-outline, .clr\:green.btn-grp > .btn-outline {
   color: #1b813e;
   border-color: #1b813e; }
-  .clr\:green.btn-outline:hover, .clr\:green.btn-outline:active, .clr\:green.btn-outline.is\:on,
-  .clr\:green.btn-grp > .btn-outline:hover,
-  .clr\:green.btn-grp > .btn-outline:active,
-  .clr\:green.btn-grp > .btn-outline.is\:on {
+  .clr\:green.btn-outline:hover, .clr\:green.btn-outline:active, .clr\:green.btn-outline.is\:on, .clr\:green.btn-grp > .btn-outline:hover, .clr\:green.btn-grp > .btn-outline:active, .clr\:green.btn-grp > .btn-outline.is\:on {
     background-color: rgba(27, 129, 62, 0.05); }
-  .clr\:green.btn-outline > .badge,
-  .clr\:green.btn-grp > .btn-outline > .badge {
+  .clr\:green.btn-outline > .badge, .clr\:green.btn-grp > .btn-outline > .badge {
     color: #1b813e;
     border-color: #1b813e; }
-
 .clr\:green.tag {
   color: rgba(13, 62, 30, 0.87);
   border-color: rgba(16, 76, 37, 0.24);
@@ -1171,28 +878,21 @@
   .clr\:green.tag .tag_append {
     color: rgba(255, 255, 255, 0.87);
     background-color: #1b813e; }
-
 .clr\:green.ribbon {
   border-right-color: #1b813e;
   border-left-color: #22a14d; }
-
 .clr\:green.timeline_item .timeline_axis:before {
   background-color: #1b813e; }
-
 .clr\:green.timeline_item.is\:on .timeline_axis:before {
   box-shadow: 0 0 0 2px #1b813e, inset 0 0 0 3px #ffffff; }
-
 .clr\:green.avatar:after {
   border-color: #1b813e; }
-
 .clr\:green.avatar .avatar_obj {
   color: rgba(255, 255, 255, 0.87);
   background-color: #1b813e; }
-
 .clr\:green.label {
   color: white;
   background-color: #1b813e; }
-
 .clr\:green.progress_bar {
   color: rgba(255, 255, 255, 0.87);
   background-color: #1b813e; }
@@ -1204,21 +904,15 @@
   color: rgba(255, 255, 255, 0.87);
   background-color: #1b813e; }
 
-.clr\:aegean.btn,
-.clr\:aegean.btn-grp > .btn {
+.clr\:aegean.btn, .clr\:aegean.btn-grp > .btn {
   color: rgba(255, 255, 255, 0.87);
   background-color: #2b5f75; }
-  .clr\:aegean.btn:hover, .clr\:aegean.btn.is\:hover,
-  .clr\:aegean.btn-grp > .btn:hover,
-  .clr\:aegean.btn-grp > .btn.is\:hover {
+  .clr\:aegean.btn:hover, .clr\:aegean.btn.is\:hover, .clr\:aegean.btn-grp > .btn:hover, .clr\:aegean.btn-grp > .btn.is\:hover {
     background-color: #224c5d; }
-  .clr\:aegean.btn:active, .clr\:aegean.btn.is\:on,
-  .clr\:aegean.btn-grp > .btn:active,
-  .clr\:aegean.btn-grp > .btn.is\:on {
+  .clr\:aegean.btn:active, .clr\:aegean.btn.is\:on, .clr\:aegean.btn-grp > .btn:active, .clr\:aegean.btn-grp > .btn.is\:on {
     color: rgba(255, 255, 255, 0.87);
     background-color: #1e4251; }
-  .clr\:aegean.btn > .badge,
-  .clr\:aegean.btn-grp > .btn > .badge {
+  .clr\:aegean.btn > .badge, .clr\:aegean.btn-grp > .btn > .badge {
     /*
     hue: $hue;
     lightness: $lightness;
@@ -1229,21 +923,14 @@
     //*/
     color: #2b5f75;
     background-color: rgba(255, 255, 255, 0.7); }
-
-.clr\:aegean.btn-outline,
-.clr\:aegean.btn-grp > .btn-outline {
+.clr\:aegean.btn-outline, .clr\:aegean.btn-grp > .btn-outline {
   color: #2b5f75;
   border-color: #2b5f75; }
-  .clr\:aegean.btn-outline:hover, .clr\:aegean.btn-outline:active, .clr\:aegean.btn-outline.is\:on,
-  .clr\:aegean.btn-grp > .btn-outline:hover,
-  .clr\:aegean.btn-grp > .btn-outline:active,
-  .clr\:aegean.btn-grp > .btn-outline.is\:on {
+  .clr\:aegean.btn-outline:hover, .clr\:aegean.btn-outline:active, .clr\:aegean.btn-outline.is\:on, .clr\:aegean.btn-grp > .btn-outline:hover, .clr\:aegean.btn-grp > .btn-outline:active, .clr\:aegean.btn-grp > .btn-outline.is\:on {
     background-color: rgba(43, 95, 117, 0.05); }
-  .clr\:aegean.btn-outline > .badge,
-  .clr\:aegean.btn-grp > .btn-outline > .badge {
+  .clr\:aegean.btn-outline > .badge, .clr\:aegean.btn-grp > .btn-outline > .badge {
     color: #2b5f75;
     border-color: #2b5f75; }
-
 .clr\:aegean.tag {
   color: rgba(21, 47, 57, 0.87);
   border-color: rgba(26, 57, 70, 0.24);
@@ -1251,28 +938,21 @@
   .clr\:aegean.tag .tag_append {
     color: rgba(255, 255, 255, 0.87);
     background-color: #2b5f75; }
-
 .clr\:aegean.ribbon {
   border-right-color: #2b5f75;
   border-left-color: #357691; }
-
 .clr\:aegean.timeline_item .timeline_axis:before {
   background-color: #2b5f75; }
-
 .clr\:aegean.timeline_item.is\:on .timeline_axis:before {
   box-shadow: 0 0 0 2px #2b5f75, inset 0 0 0 3px #ffffff; }
-
 .clr\:aegean.avatar:after {
   border-color: #2b5f75; }
-
 .clr\:aegean.avatar .avatar_obj {
   color: rgba(255, 255, 255, 0.87);
   background-color: #2b5f75; }
-
 .clr\:aegean.label {
   color: white;
   background-color: #2b5f75; }
-
 .clr\:aegean.progress_bar {
   color: rgba(255, 255, 255, 0.87);
   background-color: #2b5f75; }
@@ -1284,21 +964,15 @@
   color: rgba(255, 255, 255, 0.87);
   background-color: #2b5f75; }
 
-.clr\:blue.btn,
-.clr\:blue.btn-grp > .btn {
+.clr\:blue.btn, .clr\:blue.btn-grp > .btn {
   color: rgba(255, 255, 255, 0.87);
   background-color: #005CAF; }
-  .clr\:blue.btn:hover, .clr\:blue.btn.is\:hover,
-  .clr\:blue.btn-grp > .btn:hover,
-  .clr\:blue.btn-grp > .btn.is\:hover {
+  .clr\:blue.btn:hover, .clr\:blue.btn.is\:hover, .clr\:blue.btn-grp > .btn:hover, .clr\:blue.btn-grp > .btn.is\:hover {
     background-color: #004b8e; }
-  .clr\:blue.btn:active, .clr\:blue.btn.is\:on,
-  .clr\:blue.btn-grp > .btn:active,
-  .clr\:blue.btn-grp > .btn.is\:on {
+  .clr\:blue.btn:active, .clr\:blue.btn.is\:on, .clr\:blue.btn-grp > .btn:active, .clr\:blue.btn-grp > .btn.is\:on {
     color: rgba(255, 255, 255, 0.87);
     background-color: #00427e; }
-  .clr\:blue.btn > .badge,
-  .clr\:blue.btn-grp > .btn > .badge {
+  .clr\:blue.btn > .badge, .clr\:blue.btn-grp > .btn > .badge {
     /*
     hue: $hue;
     lightness: $lightness;
@@ -1309,21 +983,14 @@
     //*/
     color: #005CAF;
     background-color: rgba(255, 255, 255, 0.7); }
-
-.clr\:blue.btn-outline,
-.clr\:blue.btn-grp > .btn-outline {
+.clr\:blue.btn-outline, .clr\:blue.btn-grp > .btn-outline {
   color: #005CAF;
   border-color: #005CAF; }
-  .clr\:blue.btn-outline:hover, .clr\:blue.btn-outline:active, .clr\:blue.btn-outline.is\:on,
-  .clr\:blue.btn-grp > .btn-outline:hover,
-  .clr\:blue.btn-grp > .btn-outline:active,
-  .clr\:blue.btn-grp > .btn-outline.is\:on {
+  .clr\:blue.btn-outline:hover, .clr\:blue.btn-outline:active, .clr\:blue.btn-outline.is\:on, .clr\:blue.btn-grp > .btn-outline:hover, .clr\:blue.btn-grp > .btn-outline:active, .clr\:blue.btn-grp > .btn-outline.is\:on {
     background-color: rgba(0, 92, 175, 0.05); }
-  .clr\:blue.btn-outline > .badge,
-  .clr\:blue.btn-grp > .btn-outline > .badge {
+  .clr\:blue.btn-outline > .badge, .clr\:blue.btn-grp > .btn-outline > .badge {
     color: #005CAF;
     border-color: #005CAF; }
-
 .clr\:blue.tag {
   color: rgba(0, 49, 93, 0.87);
   border-color: rgba(0, 58, 111, 0.24);
@@ -1331,28 +998,21 @@
   .clr\:blue.tag .tag_append {
     color: rgba(255, 255, 255, 0.87);
     background-color: #005CAF; }
-
 .clr\:blue.ribbon {
   border-right-color: #005CAF;
   border-left-color: #0070d5; }
-
 .clr\:blue.timeline_item .timeline_axis:before {
   background-color: #005CAF; }
-
 .clr\:blue.timeline_item.is\:on .timeline_axis:before {
   box-shadow: 0 0 0 2px #005CAF, inset 0 0 0 3px #ffffff; }
-
 .clr\:blue.avatar:after {
   border-color: #005CAF; }
-
 .clr\:blue.avatar .avatar_obj {
   color: rgba(255, 255, 255, 0.87);
   background-color: #005CAF; }
-
 .clr\:blue.label {
   color: white;
   background-color: #005CAF; }
-
 .clr\:blue.progress_bar {
   color: rgba(255, 255, 255, 0.87);
   background-color: #005CAF; }
@@ -1364,21 +1024,15 @@
   color: rgba(255, 255, 255, 0.87);
   background-color: #005CAF; }
 
-.clr\:violet.btn,
-.clr\:violet.btn-grp > .btn {
+.clr\:violet.btn, .clr\:violet.btn-grp > .btn {
   color: rgba(255, 255, 255, 0.87);
   background-color: #66327c; }
-  .clr\:violet.btn:hover, .clr\:violet.btn.is\:hover,
-  .clr\:violet.btn-grp > .btn:hover,
-  .clr\:violet.btn-grp > .btn.is\:hover {
+  .clr\:violet.btn:hover, .clr\:violet.btn.is\:hover, .clr\:violet.btn-grp > .btn:hover, .clr\:violet.btn-grp > .btn.is\:hover {
     background-color: #532965; }
-  .clr\:violet.btn:active, .clr\:violet.btn.is\:on,
-  .clr\:violet.btn-grp > .btn:active,
-  .clr\:violet.btn-grp > .btn.is\:on {
+  .clr\:violet.btn:active, .clr\:violet.btn.is\:on, .clr\:violet.btn-grp > .btn:active, .clr\:violet.btn-grp > .btn.is\:on {
     color: rgba(255, 255, 255, 0.87);
     background-color: #492459; }
-  .clr\:violet.btn > .badge,
-  .clr\:violet.btn-grp > .btn > .badge {
+  .clr\:violet.btn > .badge, .clr\:violet.btn-grp > .btn > .badge {
     /*
     hue: $hue;
     lightness: $lightness;
@@ -1389,21 +1043,14 @@
     //*/
     color: #66327c;
     background-color: rgba(255, 255, 255, 0.7); }
-
-.clr\:violet.btn-outline,
-.clr\:violet.btn-grp > .btn-outline {
+.clr\:violet.btn-outline, .clr\:violet.btn-grp > .btn-outline {
   color: #66327c;
   border-color: #66327c; }
-  .clr\:violet.btn-outline:hover, .clr\:violet.btn-outline:active, .clr\:violet.btn-outline.is\:on,
-  .clr\:violet.btn-grp > .btn-outline:hover,
-  .clr\:violet.btn-grp > .btn-outline:active,
-  .clr\:violet.btn-grp > .btn-outline.is\:on {
+  .clr\:violet.btn-outline:hover, .clr\:violet.btn-outline:active, .clr\:violet.btn-outline.is\:on, .clr\:violet.btn-grp > .btn-outline:hover, .clr\:violet.btn-grp > .btn-outline:active, .clr\:violet.btn-grp > .btn-outline.is\:on {
     background-color: rgba(102, 50, 124, 0.05); }
-  .clr\:violet.btn-outline > .badge,
-  .clr\:violet.btn-grp > .btn-outline > .badge {
+  .clr\:violet.btn-outline > .badge, .clr\:violet.btn-grp > .btn-outline > .badge {
     color: #66327c;
     border-color: #66327c; }
-
 .clr\:violet.tag {
   color: rgba(54, 27, 66, 0.87);
   border-color: rgba(65, 32, 79, 0.24);
@@ -1411,28 +1058,21 @@
   .clr\:violet.tag .tag_append {
     color: rgba(255, 255, 255, 0.87);
     background-color: #66327c; }
-
 .clr\:violet.ribbon {
   border-right-color: #66327c;
   border-left-color: #7c3d97; }
-
 .clr\:violet.timeline_item .timeline_axis:before {
   background-color: #66327c; }
-
 .clr\:violet.timeline_item.is\:on .timeline_axis:before {
   box-shadow: 0 0 0 2px #66327c, inset 0 0 0 3px #ffffff; }
-
 .clr\:violet.avatar:after {
   border-color: #66327c; }
-
 .clr\:violet.avatar .avatar_obj {
   color: rgba(255, 255, 255, 0.87);
   background-color: #66327c; }
-
 .clr\:violet.label {
   color: white;
   background-color: #66327c; }
-
 .clr\:violet.progress_bar {
   color: rgba(255, 255, 255, 0.87);
   background-color: #66327c; }
@@ -1444,21 +1084,15 @@
   color: rgba(255, 255, 255, 0.87);
   background-color: #66327c; }
 
-.clr\:brown.btn,
-.clr\:brown.btn-grp > .btn {
+.clr\:brown.btn, .clr\:brown.btn-grp > .btn {
   color: rgba(255, 255, 255, 0.87);
   background-color: #563f2e; }
-  .clr\:brown.btn:hover, .clr\:brown.btn.is\:hover,
-  .clr\:brown.btn-grp > .btn:hover,
-  .clr\:brown.btn-grp > .btn.is\:hover {
+  .clr\:brown.btn:hover, .clr\:brown.btn.is\:hover, .clr\:brown.btn-grp > .btn:hover, .clr\:brown.btn-grp > .btn.is\:hover {
     background-color: #412f23; }
-  .clr\:brown.btn:active, .clr\:brown.btn.is\:on,
-  .clr\:brown.btn-grp > .btn:active,
-  .clr\:brown.btn-grp > .btn.is\:on {
+  .clr\:brown.btn:active, .clr\:brown.btn.is\:on, .clr\:brown.btn-grp > .btn:active, .clr\:brown.btn-grp > .btn.is\:on {
     color: rgba(255, 255, 255, 0.87);
     background-color: #36281d; }
-  .clr\:brown.btn > .badge,
-  .clr\:brown.btn-grp > .btn > .badge {
+  .clr\:brown.btn > .badge, .clr\:brown.btn-grp > .btn > .badge {
     /*
     hue: $hue;
     lightness: $lightness;
@@ -1469,21 +1103,14 @@
     //*/
     color: #563f2e;
     background-color: rgba(255, 255, 255, 0.7); }
-
-.clr\:brown.btn-outline,
-.clr\:brown.btn-grp > .btn-outline {
+.clr\:brown.btn-outline, .clr\:brown.btn-grp > .btn-outline {
   color: #563f2e;
   border-color: #563f2e; }
-  .clr\:brown.btn-outline:hover, .clr\:brown.btn-outline:active, .clr\:brown.btn-outline.is\:on,
-  .clr\:brown.btn-grp > .btn-outline:hover,
-  .clr\:brown.btn-grp > .btn-outline:active,
-  .clr\:brown.btn-grp > .btn-outline.is\:on {
+  .clr\:brown.btn-outline:hover, .clr\:brown.btn-outline:active, .clr\:brown.btn-outline.is\:on, .clr\:brown.btn-grp > .btn-outline:hover, .clr\:brown.btn-grp > .btn-outline:active, .clr\:brown.btn-grp > .btn-outline.is\:on {
     background-color: rgba(86, 63, 46, 0.05); }
-  .clr\:brown.btn-outline > .badge,
-  .clr\:brown.btn-grp > .btn-outline > .badge {
+  .clr\:brown.btn-outline > .badge, .clr\:brown.btn-grp > .btn-outline > .badge {
     color: #563f2e;
     border-color: #563f2e; }
-
 .clr\:brown.tag {
   color: rgba(33, 24, 18, 0.87);
   border-color: rgba(44, 33, 24, 0.24);
@@ -1491,28 +1118,21 @@
   .clr\:brown.tag .tag_append {
     color: rgba(255, 255, 255, 0.87);
     background-color: #563f2e; }
-
 .clr\:brown.ribbon {
   border-right-color: #563f2e;
   border-left-color: #6f513b; }
-
 .clr\:brown.timeline_item .timeline_axis:before {
   background-color: #563f2e; }
-
 .clr\:brown.timeline_item.is\:on .timeline_axis:before {
   box-shadow: 0 0 0 2px #563f2e, inset 0 0 0 3px #ffffff; }
-
 .clr\:brown.avatar:after {
   border-color: #563f2e; }
-
 .clr\:brown.avatar .avatar_obj {
   color: rgba(255, 255, 255, 0.87);
   background-color: #563f2e; }
-
 .clr\:brown.label {
   color: white;
   background-color: #563f2e; }
-
 .clr\:brown.progress_bar {
   color: rgba(255, 255, 255, 0.87);
   background-color: #563f2e; }
@@ -1524,21 +1144,15 @@
   color: rgba(255, 255, 255, 0.87);
   background-color: #563f2e; }
 
-.clr\:gray.btn,
-.clr\:gray.btn-grp > .btn {
+.clr\:gray.btn, .clr\:gray.btn-grp > .btn {
   color: rgba(255, 255, 255, 0.87);
   background-color: #646a68; }
-  .clr\:gray.btn:hover, .clr\:gray.btn.is\:hover,
-  .clr\:gray.btn-grp > .btn:hover,
-  .clr\:gray.btn-grp > .btn.is\:hover {
+  .clr\:gray.btn:hover, .clr\:gray.btn.is\:hover, .clr\:gray.btn-grp > .btn:hover, .clr\:gray.btn-grp > .btn.is\:hover {
     background-color: #545958; }
-  .clr\:gray.btn:active, .clr\:gray.btn.is\:on,
-  .clr\:gray.btn-grp > .btn:active,
-  .clr\:gray.btn-grp > .btn.is\:on {
+  .clr\:gray.btn:active, .clr\:gray.btn.is\:on, .clr\:gray.btn-grp > .btn:active, .clr\:gray.btn-grp > .btn.is\:on {
     color: rgba(255, 255, 255, 0.87);
     background-color: #4c514f; }
-  .clr\:gray.btn > .badge,
-  .clr\:gray.btn-grp > .btn > .badge {
+  .clr\:gray.btn > .badge, .clr\:gray.btn-grp > .btn > .badge {
     /*
     hue: $hue;
     lightness: $lightness;
@@ -1549,21 +1163,14 @@
     //*/
     color: #646a68;
     background-color: rgba(255, 255, 255, 0.7); }
-
-.clr\:gray.btn-outline,
-.clr\:gray.btn-grp > .btn-outline {
+.clr\:gray.btn-outline, .clr\:gray.btn-grp > .btn-outline {
   color: #646a68;
   border-color: #646a68; }
-  .clr\:gray.btn-outline:hover, .clr\:gray.btn-outline:active, .clr\:gray.btn-outline.is\:on,
-  .clr\:gray.btn-grp > .btn-outline:hover,
-  .clr\:gray.btn-grp > .btn-outline:active,
-  .clr\:gray.btn-grp > .btn-outline.is\:on {
+  .clr\:gray.btn-outline:hover, .clr\:gray.btn-outline:active, .clr\:gray.btn-outline.is\:on, .clr\:gray.btn-grp > .btn-outline:hover, .clr\:gray.btn-grp > .btn-outline:active, .clr\:gray.btn-grp > .btn-outline.is\:on {
     background-color: rgba(100, 106, 104, 0.05); }
-  .clr\:gray.btn-outline > .badge,
-  .clr\:gray.btn-grp > .btn-outline > .badge {
+  .clr\:gray.btn-outline > .badge, .clr\:gray.btn-grp > .btn-outline > .badge {
     color: #646a68;
     border-color: #646a68; }
-
 .clr\:gray.tag {
   color: rgba(60, 64, 63, 0.87);
   border-color: rgba(69, 73, 72, 0.24);
@@ -1571,28 +1178,21 @@
   .clr\:gray.tag .tag_append {
     color: rgba(255, 255, 255, 0.87);
     background-color: #646a68; }
-
 .clr\:gray.ribbon {
   border-right-color: #646a68;
   border-left-color: #777e7b; }
-
 .clr\:gray.timeline_item .timeline_axis:before {
   background-color: #646a68; }
-
 .clr\:gray.timeline_item.is\:on .timeline_axis:before {
   box-shadow: 0 0 0 2px #646a68, inset 0 0 0 3px #ffffff; }
-
 .clr\:gray.avatar:after {
   border-color: #646a68; }
-
 .clr\:gray.avatar .avatar_obj {
   color: rgba(255, 255, 255, 0.87);
   background-color: #646a68; }
-
 .clr\:gray.label {
   color: white;
   background-color: #646a68; }
-
 .clr\:gray.progress_bar {
   color: rgba(255, 255, 255, 0.87);
   background-color: #646a68; }
@@ -1604,21 +1204,15 @@
   color: rgba(255, 255, 255, 0.87);
   background-color: #646a68; }
 
-.clr\:black.btn,
-.clr\:black.btn-grp > .btn {
+.clr\:black.btn, .clr\:black.btn-grp > .btn {
   color: rgba(255, 255, 255, 0.87);
   background-color: #000000; }
-  .clr\:black.btn:hover, .clr\:black.btn.is\:hover,
-  .clr\:black.btn-grp > .btn:hover,
-  .clr\:black.btn-grp > .btn.is\:hover {
+  .clr\:black.btn:hover, .clr\:black.btn.is\:hover, .clr\:black.btn-grp > .btn:hover, .clr\:black.btn-grp > .btn.is\:hover {
     background-color: black; }
-  .clr\:black.btn:active, .clr\:black.btn.is\:on,
-  .clr\:black.btn-grp > .btn:active,
-  .clr\:black.btn-grp > .btn.is\:on {
+  .clr\:black.btn:active, .clr\:black.btn.is\:on, .clr\:black.btn-grp > .btn:active, .clr\:black.btn-grp > .btn.is\:on {
     color: rgba(255, 255, 255, 0.87);
     background-color: black; }
-  .clr\:black.btn > .badge,
-  .clr\:black.btn-grp > .btn > .badge {
+  .clr\:black.btn > .badge, .clr\:black.btn-grp > .btn > .badge {
     /*
     hue: $hue;
     lightness: $lightness;
@@ -1629,21 +1223,14 @@
     //*/
     color: #000000;
     background-color: rgba(255, 255, 255, 0.7); }
-
-.clr\:black.btn-outline,
-.clr\:black.btn-grp > .btn-outline {
+.clr\:black.btn-outline, .clr\:black.btn-grp > .btn-outline {
   color: #000000;
   border-color: #000000; }
-  .clr\:black.btn-outline:hover, .clr\:black.btn-outline:active, .clr\:black.btn-outline.is\:on,
-  .clr\:black.btn-grp > .btn-outline:hover,
-  .clr\:black.btn-grp > .btn-outline:active,
-  .clr\:black.btn-grp > .btn-outline.is\:on {
+  .clr\:black.btn-outline:hover, .clr\:black.btn-outline:active, .clr\:black.btn-outline.is\:on, .clr\:black.btn-grp > .btn-outline:hover, .clr\:black.btn-grp > .btn-outline:active, .clr\:black.btn-grp > .btn-outline.is\:on {
     background-color: rgba(0, 0, 0, 0.05); }
-  .clr\:black.btn-outline > .badge,
-  .clr\:black.btn-grp > .btn-outline > .badge {
+  .clr\:black.btn-outline > .badge, .clr\:black.btn-grp > .btn-outline > .badge {
     color: #000000;
     border-color: #000000; }
-
 .clr\:black.tag {
   color: rgba(0, 0, 0, 0.87);
   border-color: rgba(0, 0, 0, 0.24);
@@ -1651,28 +1238,21 @@
   .clr\:black.tag .tag_append {
     color: rgba(255, 255, 255, 0.87);
     background-color: #000000; }
-
 .clr\:black.ribbon {
   border-right-color: #000000;
   border-left-color: #131313; }
-
 .clr\:black.timeline_item .timeline_axis:before {
   background-color: #000000; }
-
 .clr\:black.timeline_item.is\:on .timeline_axis:before {
   box-shadow: 0 0 0 2px #000000, inset 0 0 0 3px #ffffff; }
-
 .clr\:black.avatar:after {
   border-color: #000000; }
-
 .clr\:black.avatar .avatar_obj {
   color: rgba(255, 255, 255, 0.87);
   background-color: #000000; }
-
 .clr\:black.label {
   color: white;
   background-color: #000000; }
-
 .clr\:black.progress_bar {
   color: rgba(255, 255, 255, 0.87);
   background-color: #000000; }

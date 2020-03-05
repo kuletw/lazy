@@ -23,7 +23,6 @@
     //*/
     color: #ff0000;
     background-color: rgba(255, 255, 255, 0.7); }
-
 .tbc\:youtube.btn-outline {
   color: #ff0000;
   border-color: #ff0000; }
@@ -32,7 +31,6 @@
   .tbc\:youtube.btn-outline > .badge {
     color: #ff0000;
     border-color: #ff0000; }
-
 .tbc\:youtube.tag {
   color: rgba(173, 0, 0, 0.87);
   border-color: rgba(191, 0, 0, 0.24);
@@ -40,28 +38,21 @@
   .tbc\:youtube.tag .tag_append {
     color: rgba(255, 255, 255, 0.87);
     background-color: #ff0000; }
-
 .tbc\:youtube.ribbon {
   border-right-color: #ff0000;
   border-left-color: #ff2626; }
-
 .tbc\:youtube.timeline_item .timeline_axis:before {
   background-color: #ff0000; }
-
 .tbc\:youtube.timeline_item.is\:on .timeline_axis:before {
   box-shadow: 0 0 0 2px #ff0000, inset 0 0 0 3px #ffffff; }
-
 .tbc\:youtube.avatar:after {
   border-color: #ff0000; }
-
 .tbc\:youtube.avatar .avatar_obj {
   color: rgba(255, 255, 255, 0.87);
   background-color: #ff0000; }
-
 .tbc\:youtube.label {
   color: white;
   background-color: #ff0000; }
-
 .tbc\:youtube.progress_bar {
   color: rgba(255, 255, 255, 0.87);
   background-color: #ff0000; }
@@ -92,7 +83,6 @@
     //*/
     color: #dd4b39;
     background-color: rgba(255, 255, 255, 0.7); }
-
 .tbc\:googleplus.btn-outline {
   color: #dd4b39;
   border-color: #dd4b39; }
@@ -101,7 +91,6 @@
   .tbc\:googleplus.btn-outline > .badge {
     color: #dd4b39;
     border-color: #dd4b39; }
-
 .tbc\:googleplus.tag {
   color: rgba(168, 44, 29, 0.87);
   border-color: rgba(183, 48, 31, 0.24);
@@ -109,28 +98,21 @@
   .tbc\:googleplus.tag .tag_append {
     color: rgba(255, 255, 255, 0.87);
     background-color: #dd4b39; }
-
 .tbc\:googleplus.ribbon {
   border-right-color: #dd4b39;
   border-left-color: #e3695a; }
-
 .tbc\:googleplus.timeline_item .timeline_axis:before {
   background-color: #dd4b39; }
-
 .tbc\:googleplus.timeline_item.is\:on .timeline_axis:before {
   box-shadow: 0 0 0 2px #dd4b39, inset 0 0 0 3px #ffffff; }
-
 .tbc\:googleplus.avatar:after {
   border-color: #dd4b39; }
-
 .tbc\:googleplus.avatar .avatar_obj {
   color: rgba(255, 255, 255, 0.87);
   background-color: #dd4b39; }
-
 .tbc\:googleplus.label {
   color: white;
   background-color: #dd4b39; }
-
 .tbc\:googleplus.progress_bar {
   color: rgba(255, 255, 255, 0.87);
   background-color: #dd4b39; }
@@ -161,7 +143,6 @@
     //*/
     color: #cb2027;
     background-color: rgba(255, 255, 255, 0.7); }
-
 .tbc\:pinterest.btn-outline {
   color: #cb2027;
   border-color: #cb2027; }
@@ -170,7 +151,6 @@
   .tbc\:pinterest.btn-outline > .badge {
     color: #cb2027;
     border-color: #cb2027; }
-
 .tbc\:pinterest.tag {
   color: rgba(133, 21, 25, 0.87);
   border-color: rgba(148, 23, 28, 0.24);
@@ -178,28 +158,21 @@
   .tbc\:pinterest.tag .tag_append {
     color: rgba(255, 255, 255, 0.87);
     background-color: #cb2027; }
-
 .tbc\:pinterest.ribbon {
   border-right-color: #cb2027;
   border-left-color: #df323a; }
-
 .tbc\:pinterest.timeline_item .timeline_axis:before {
   background-color: #cb2027; }
-
 .tbc\:pinterest.timeline_item.is\:on .timeline_axis:before {
   box-shadow: 0 0 0 2px #cb2027, inset 0 0 0 3px #ffffff; }
-
 .tbc\:pinterest.avatar:after {
   border-color: #cb2027; }
-
 .tbc\:pinterest.avatar .avatar_obj {
   color: rgba(255, 255, 255, 0.87);
   background-color: #cb2027; }
-
 .tbc\:pinterest.label {
   color: white;
   background-color: #cb2027; }
-
 .tbc\:pinterest.progress_bar {
   color: rgba(255, 255, 255, 0.87);
   background-color: #cb2027; }
@@ -230,7 +203,6 @@
     //*/
     color: #df2029;
     background-color: rgba(255, 255, 255, 0.7); }
-
 .tbc\:weibo.btn-outline {
   color: #df2029;
   border-color: #df2029; }
@@ -239,7 +211,6 @@
   .tbc\:weibo.btn-outline > .badge {
     color: #df2029;
     border-color: #df2029; }
-
 .tbc\:weibo.tag {
   color: rgba(152, 22, 28, 0.87);
   border-color: rgba(167, 24, 31, 0.24);
@@ -247,28 +218,21 @@
   .tbc\:weibo.tag .tag_append {
     color: rgba(255, 255, 255, 0.87);
     background-color: #df2029; }
-
 .tbc\:weibo.ribbon {
   border-right-color: #df2029;
   border-left-color: #e44149; }
-
 .tbc\:weibo.timeline_item .timeline_axis:before {
   background-color: #df2029; }
-
 .tbc\:weibo.timeline_item.is\:on .timeline_axis:before {
   box-shadow: 0 0 0 2px #df2029, inset 0 0 0 3px #ffffff; }
-
 .tbc\:weibo.avatar:after {
   border-color: #df2029; }
-
 .tbc\:weibo.avatar .avatar_obj {
   color: rgba(255, 255, 255, 0.87);
   background-color: #df2029; }
-
 .tbc\:weibo.label {
   color: white;
   background-color: #df2029; }
-
 .tbc\:weibo.progress_bar {
   color: rgba(255, 255, 255, 0.87);
   background-color: #df2029; }
@@ -299,7 +263,6 @@
     //*/
     color: #f26522;
     background-color: rgba(255, 255, 255, 0.7); }
-
 .tbc\:rss.btn-outline {
   color: #f26522;
   border-color: #f26522; }
@@ -308,7 +271,6 @@
   .tbc\:rss.btn-outline > .badge {
     color: #f26522;
     border-color: #f26522; }
-
 .tbc\:rss.tag {
   color: rgba(184, 66, 11, 0.87);
   border-color: rgba(200, 73, 12, 0.24);
@@ -316,28 +278,21 @@
   .tbc\:rss.tag .tag_append {
     color: rgba(255, 255, 255, 0.87);
     background-color: #f26522; }
-
 .tbc\:rss.ribbon {
   border-right-color: #f26522;
   border-left-color: #f47e46; }
-
 .tbc\:rss.timeline_item .timeline_axis:before {
   background-color: #f26522; }
-
 .tbc\:rss.timeline_item.is\:on .timeline_axis:before {
   box-shadow: 0 0 0 2px #f26522, inset 0 0 0 3px #ffffff; }
-
 .tbc\:rss.avatar:after {
   border-color: #f26522; }
-
 .tbc\:rss.avatar .avatar_obj {
   color: rgba(255, 255, 255, 0.87);
   background-color: #f26522; }
-
 .tbc\:rss.label {
   color: white;
   background-color: #f26522; }
-
 .tbc\:rss.progress_bar {
   color: rgba(255, 255, 255, 0.87);
   background-color: #f26522; }
@@ -368,7 +323,6 @@
     //*/
     color: rgba(255, 255, 255, 0.87);
     background-color: rgba(116, 116, 28, 0.7); }
-
 .tbc\:snapchat.btn-outline {
   color: #fffc00;
   border-color: #fffc00; }
@@ -377,7 +331,6 @@
   .tbc\:snapchat.btn-outline > .badge {
     color: #fffc00;
     border-color: #fffc00; }
-
 .tbc\:snapchat.tag {
   color: rgba(144, 143, 17, 0.87);
   border-color: rgba(191, 189, 0, 0.24);
@@ -385,28 +338,21 @@
   .tbc\:snapchat.tag .tag_append {
     color: rgba(88, 87, 16, 0.87);
     background-color: #fffc00; }
-
 .tbc\:snapchat.ribbon {
   border-right-color: #fffc00;
   border-left-color: #fffc26; }
-
 .tbc\:snapchat.timeline_item .timeline_axis:before {
   background-color: #fffc00; }
-
 .tbc\:snapchat.timeline_item.is\:on .timeline_axis:before {
   box-shadow: 0 0 0 2px #fffc00, inset 0 0 0 3px #ffffff; }
-
 .tbc\:snapchat.avatar:after {
   border-color: #fffc00; }
-
 .tbc\:snapchat.avatar .avatar_obj {
   color: rgba(88, 87, 16, 0.87);
   background-color: #fffc00; }
-
 .tbc\:snapchat.label {
   color: rgba(88, 87, 16, 0.87);
   background-color: #fffc00; }
-
 .tbc\:snapchat.progress_bar {
   color: rgba(255, 255, 255, 0.87);
   background-color: #fffc00; }
@@ -437,7 +383,6 @@
     //*/
     color: rgba(25, 74, 44, 0.75);
     background-color: rgba(255, 255, 255, 0.7); }
-
 .tbc\:whatsapp.btn-outline {
   color: #25d366;
   border-color: #25d366; }
@@ -446,7 +391,6 @@
   .tbc\:whatsapp.btn-outline > .badge {
     color: #25d366;
     border-color: #25d366; }
-
 .tbc\:whatsapp.tag {
   color: rgba(35, 122, 68, 0.75);
   border-color: rgba(27, 157, 76, 0.24);
@@ -454,28 +398,21 @@
   .tbc\:whatsapp.tag .tag_append {
     color: rgba(25, 74, 44, 0.75);
     background-color: #25d366; }
-
 .tbc\:whatsapp.ribbon {
   border-right-color: #25d366;
   border-left-color: #41de7b; }
-
 .tbc\:whatsapp.timeline_item .timeline_axis:before {
   background-color: #25d366; }
-
 .tbc\:whatsapp.timeline_item.is\:on .timeline_axis:before {
   box-shadow: 0 0 0 2px #25d366, inset 0 0 0 3px #ffffff; }
-
 .tbc\:whatsapp.avatar:after {
   border-color: #25d366; }
-
 .tbc\:whatsapp.avatar .avatar_obj {
   color: rgba(25, 74, 44, 0.75);
   background-color: #25d366; }
-
 .tbc\:whatsapp.label {
   color: rgba(25, 74, 44, 0.75);
   background-color: #25d366; }
-
 .tbc\:whatsapp.progress_bar {
   color: rgba(255, 255, 255, 0.87);
   background-color: #25d366; }
@@ -506,7 +443,6 @@
     //*/
     color: #09b83e;
     background-color: rgba(255, 255, 255, 0.7); }
-
 .tbc\:wechat.btn-outline {
   color: #07de48;
   border-color: #07de48; }
@@ -515,7 +451,6 @@
   .tbc\:wechat.btn-outline > .badge {
     color: #09b83e;
     border-color: #09b83e; }
-
 .tbc\:wechat.tag {
   color: rgba(5, 106, 36, 0.87);
   border-color: rgba(6, 123, 42, 0.24);
@@ -523,28 +458,21 @@
   .tbc\:wechat.tag .tag_append {
     color: rgba(255, 255, 255, 0.87);
     background-color: #09b83e; }
-
 .tbc\:wechat.ribbon {
   border-right-color: #09b83e;
   border-left-color: #0bdc4a; }
-
 .tbc\:wechat.timeline_item .timeline_axis:before {
   background-color: #09b83e; }
-
 .tbc\:wechat.timeline_item.is\:on .timeline_axis:before {
   box-shadow: 0 0 0 2px #09b83e, inset 0 0 0 3px #ffffff; }
-
 .tbc\:wechat.avatar:after {
   border-color: #09b83e; }
-
 .tbc\:wechat.avatar .avatar_obj {
   color: rgba(255, 255, 255, 0.87);
   background-color: #09b83e; }
-
 .tbc\:wechat.label {
   color: white;
   background-color: #09b83e; }
-
 .tbc\:wechat.progress_bar {
   color: rgba(255, 255, 255, 0.87);
   background-color: #09b83e; }
@@ -575,7 +503,6 @@
     //*/
     color: #00c300;
     background-color: rgba(255, 255, 255, 0.7); }
-
 .tbc\:line.btn-outline {
   color: #00e600;
   border-color: #00e600; }
@@ -584,7 +511,6 @@
   .tbc\:line.btn-outline > .badge {
     color: #00c300;
     border-color: #00c300; }
-
 .tbc\:line.tag {
   color: rgba(0, 113, 0, 0.87);
   border-color: rgba(0, 131, 0, 0.24);
@@ -592,28 +518,21 @@
   .tbc\:line.tag .tag_append {
     color: rgba(255, 255, 255, 0.87);
     background-color: #00c300; }
-
 .tbc\:line.ribbon {
   border-right-color: #00c300;
   border-left-color: #00e900; }
-
 .tbc\:line.timeline_item .timeline_axis:before {
   background-color: #00c300; }
-
 .tbc\:line.timeline_item.is\:on .timeline_axis:before {
   box-shadow: 0 0 0 2px #00c300, inset 0 0 0 3px #ffffff; }
-
 .tbc\:line.avatar:after {
   border-color: #00c300; }
-
 .tbc\:line.avatar .avatar_obj {
   color: rgba(255, 255, 255, 0.87);
   background-color: #00c300; }
-
 .tbc\:line.label {
   color: white;
   background-color: #00c300; }
-
 .tbc\:line.progress_bar {
   color: rgba(255, 255, 255, 0.87);
   background-color: #00c300; }
@@ -644,7 +563,6 @@
     //*/
     color: #3aaf85;
     background-color: rgba(255, 255, 255, 0.7); }
-
 .tbc\:slack.btn-outline {
   color: #3aaf85;
   border-color: #3aaf85; }
@@ -653,7 +571,6 @@
   .tbc\:slack.btn-outline > .badge {
     color: #3aaf85;
     border-color: #3aaf85; }
-
 .tbc\:slack.tag {
   color: rgba(38, 114, 86, 0.87);
   border-color: rgba(42, 127, 97, 0.24);
@@ -661,28 +578,21 @@
   .tbc\:slack.tag .tag_append {
     color: rgba(255, 255, 255, 0.87);
     background-color: #3aaf85; }
-
 .tbc\:slack.ribbon {
   border-right-color: #3aaf85;
   border-left-color: #4cc499; }
-
 .tbc\:slack.timeline_item .timeline_axis:before {
   background-color: #3aaf85; }
-
 .tbc\:slack.timeline_item.is\:on .timeline_axis:before {
   box-shadow: 0 0 0 2px #3aaf85, inset 0 0 0 3px #ffffff; }
-
 .tbc\:slack.avatar:after {
   border-color: #3aaf85; }
-
 .tbc\:slack.avatar .avatar_obj {
   color: rgba(255, 255, 255, 0.87);
   background-color: #3aaf85; }
-
 .tbc\:slack.label {
   color: white;
   background-color: #3aaf85; }
-
 .tbc\:slack.progress_bar {
   color: rgba(255, 255, 255, 0.87);
   background-color: #3aaf85; }
@@ -713,7 +623,6 @@
     //*/
     color: #1769ff;
     background-color: rgba(255, 255, 255, 0.7); }
-
 .tbc\:behance.btn-outline {
   color: #1769ff;
   border-color: #1769ff; }
@@ -722,7 +631,6 @@
   .tbc\:behance.btn-outline > .badge {
     color: #1769ff;
     border-color: #1769ff; }
-
 .tbc\:behance.tag {
   color: rgba(0, 69, 196, 0.87);
   border-color: rgba(0, 76, 214, 0.24);
@@ -730,28 +638,21 @@
   .tbc\:behance.tag .tag_append {
     color: rgba(255, 255, 255, 0.87);
     background-color: #1769ff; }
-
 .tbc\:behance.ribbon {
   border-right-color: #1769ff;
   border-left-color: #3d82ff; }
-
 .tbc\:behance.timeline_item .timeline_axis:before {
   background-color: #1769ff; }
-
 .tbc\:behance.timeline_item.is\:on .timeline_axis:before {
   box-shadow: 0 0 0 2px #1769ff, inset 0 0 0 3px #ffffff; }
-
 .tbc\:behance.avatar:after {
   border-color: #1769ff; }
-
 .tbc\:behance.avatar .avatar_obj {
   color: rgba(255, 255, 255, 0.87);
   background-color: #1769ff; }
-
 .tbc\:behance.label {
   color: white;
   background-color: #1769ff; }
-
 .tbc\:behance.progress_bar {
   color: rgba(255, 255, 255, 0.87);
   background-color: #1769ff; }
@@ -782,7 +683,6 @@
     //*/
     color: #0084ff;
     background-color: rgba(255, 255, 255, 0.7); }
-
 .tbc\:messager.btn-outline {
   color: #0084ff;
   border-color: #0084ff; }
@@ -791,7 +691,6 @@
   .tbc\:messager.btn-outline > .badge {
     color: #0084ff;
     border-color: #0084ff; }
-
 .tbc\:messager.tag {
   color: rgba(0, 90, 173, 0.87);
   border-color: rgba(0, 99, 191, 0.24);
@@ -799,28 +698,21 @@
   .tbc\:messager.tag .tag_append {
     color: rgba(255, 255, 255, 0.87);
     background-color: #0084ff; }
-
 .tbc\:messager.ribbon {
   border-right-color: #0084ff;
   border-left-color: #2696ff; }
-
 .tbc\:messager.timeline_item .timeline_axis:before {
   background-color: #0084ff; }
-
 .tbc\:messager.timeline_item.is\:on .timeline_axis:before {
   box-shadow: 0 0 0 2px #0084ff, inset 0 0 0 3px #ffffff; }
-
 .tbc\:messager.avatar:after {
   border-color: #0084ff; }
-
 .tbc\:messager.avatar .avatar_obj {
   color: rgba(255, 255, 255, 0.87);
   background-color: #0084ff; }
-
 .tbc\:messager.label {
   color: white;
   background-color: #0084ff; }
-
 .tbc\:messager.progress_bar {
   color: rgba(255, 255, 255, 0.87);
   background-color: #0084ff; }
@@ -851,7 +743,6 @@
     //*/
     color: #00aff0;
     background-color: rgba(255, 255, 255, 0.7); }
-
 .tbc\:skype.btn-outline {
   color: #00aff0;
   border-color: #00aff0; }
@@ -860,7 +751,6 @@
   .tbc\:skype.btn-outline > .badge {
     color: #00aff0;
     border-color: #00aff0; }
-
 .tbc\:skype.tag {
   color: rgba(0, 116, 158, 0.87);
   border-color: rgba(0, 129, 176, 0.24);
@@ -868,28 +758,21 @@
   .tbc\:skype.tag .tag_append {
     color: rgba(255, 255, 255, 0.87);
     background-color: #00aff0; }
-
 .tbc\:skype.ribbon {
   border-right-color: #00aff0;
   border-left-color: #17c0ff; }
-
 .tbc\:skype.timeline_item .timeline_axis:before {
   background-color: #00aff0; }
-
 .tbc\:skype.timeline_item.is\:on .timeline_axis:before {
   box-shadow: 0 0 0 2px #00aff0, inset 0 0 0 3px #ffffff; }
-
 .tbc\:skype.avatar:after {
   border-color: #00aff0; }
-
 .tbc\:skype.avatar .avatar_obj {
   color: rgba(255, 255, 255, 0.87);
   background-color: #00aff0; }
-
 .tbc\:skype.label {
   color: white;
   background-color: #00aff0; }
-
 .tbc\:skype.progress_bar {
   color: rgba(255, 255, 255, 0.87);
   background-color: #00aff0; }
@@ -920,7 +803,6 @@
     //*/
     color: #007ee5;
     background-color: rgba(255, 255, 255, 0.7); }
-
 .tbc\:dropbox.btn-outline {
   color: #007ee5;
   border-color: #007ee5; }
@@ -929,7 +811,6 @@
   .tbc\:dropbox.btn-outline > .badge {
     color: #007ee5;
     border-color: #007ee5; }
-
 .tbc\:dropbox.tag {
   color: rgba(0, 81, 147, 0.87);
   border-color: rgba(0, 91, 165, 0.24);
@@ -937,28 +818,21 @@
   .tbc\:dropbox.tag .tag_append {
     color: rgba(255, 255, 255, 0.87);
     background-color: #007ee5; }
-
 .tbc\:dropbox.ribbon {
   border-right-color: #007ee5;
   border-left-color: #0c92ff; }
-
 .tbc\:dropbox.timeline_item .timeline_axis:before {
   background-color: #007ee5; }
-
 .tbc\:dropbox.timeline_item.is\:on .timeline_axis:before {
   box-shadow: 0 0 0 2px #007ee5, inset 0 0 0 3px #ffffff; }
-
 .tbc\:dropbox.avatar:after {
   border-color: #007ee5; }
-
 .tbc\:dropbox.avatar .avatar_obj {
   color: rgba(255, 255, 255, 0.87);
   background-color: #007ee5; }
-
 .tbc\:dropbox.label {
   color: white;
   background-color: #007ee5; }
-
 .tbc\:dropbox.progress_bar {
   color: rgba(255, 255, 255, 0.87);
   background-color: #007ee5; }
@@ -989,7 +863,6 @@
     //*/
     color: #1ab7ea;
     background-color: rgba(255, 255, 255, 0.7); }
-
 .tbc\:viemo.btn-outline {
   color: #1ab7ea;
   border-color: #1ab7ea; }
@@ -998,7 +871,6 @@
   .tbc\:viemo.btn-outline > .badge {
     color: #1ab7ea;
     border-color: #1ab7ea; }
-
 .tbc\:viemo.tag {
   color: rgba(15, 127, 163, 0.87);
   border-color: rgba(16, 140, 180, 0.24);
@@ -1006,28 +878,21 @@
   .tbc\:viemo.tag .tag_append {
     color: rgba(255, 255, 255, 0.87);
     background-color: #1ab7ea; }
-
 .tbc\:viemo.ribbon {
   border-right-color: #1ab7ea;
   border-left-color: #3dc2ed; }
-
 .tbc\:viemo.timeline_item .timeline_axis:before {
   background-color: #1ab7ea; }
-
 .tbc\:viemo.timeline_item.is\:on .timeline_axis:before {
   box-shadow: 0 0 0 2px #1ab7ea, inset 0 0 0 3px #ffffff; }
-
 .tbc\:viemo.avatar:after {
   border-color: #1ab7ea; }
-
 .tbc\:viemo.avatar .avatar_obj {
   color: rgba(255, 255, 255, 0.87);
   background-color: #1ab7ea; }
-
 .tbc\:viemo.label {
   color: white;
   background-color: #1ab7ea; }
-
 .tbc\:viemo.progress_bar {
   color: rgba(255, 255, 255, 0.87);
   background-color: #1ab7ea; }
@@ -1058,7 +923,6 @@
     //*/
     color: #55acee;
     background-color: rgba(255, 255, 255, 0.7); }
-
 .tbc\:twitter.btn-outline {
   color: #55acee;
   border-color: #55acee; }
@@ -1067,7 +931,6 @@
   .tbc\:twitter.btn-outline > .badge {
     color: #55acee;
     border-color: #55acee; }
-
 .tbc\:twitter.tag {
   color: rgba(22, 134, 219, 0.87);
   border-color: rgba(27, 144, 232, 0.24);
@@ -1075,28 +938,21 @@
   .tbc\:twitter.tag .tag_append {
     color: rgba(255, 255, 255, 0.87);
     background-color: #55acee; }
-
 .tbc\:twitter.ribbon {
   border-right-color: #55acee;
   border-left-color: #78bdf1; }
-
 .tbc\:twitter.timeline_item .timeline_axis:before {
   background-color: #55acee; }
-
 .tbc\:twitter.timeline_item.is\:on .timeline_axis:before {
   box-shadow: 0 0 0 2px #55acee, inset 0 0 0 3px #ffffff; }
-
 .tbc\:twitter.avatar:after {
   border-color: #55acee; }
-
 .tbc\:twitter.avatar .avatar_obj {
   color: rgba(255, 255, 255, 0.87);
   background-color: #55acee; }
-
 .tbc\:twitter.label {
   color: white;
   background-color: #55acee; }
-
 .tbc\:twitter.progress_bar {
   color: rgba(255, 255, 255, 0.87);
   background-color: #55acee; }
@@ -1127,7 +983,6 @@
     //*/
     color: #0077b5;
     background-color: rgba(255, 255, 255, 0.7); }
-
 .tbc\:linkedin.btn-outline {
   color: #0097e6;
   border-color: #0097e6; }
@@ -1136,7 +991,6 @@
   .tbc\:linkedin.btn-outline > .badge {
     color: #0077b5;
     border-color: #0077b5; }
-
 .tbc\:linkedin.tag {
   color: rgba(0, 65, 99, 0.87);
   border-color: rgba(0, 77, 117, 0.24);
@@ -1144,28 +998,21 @@
   .tbc\:linkedin.tag .tag_append {
     color: rgba(255, 255, 255, 0.87);
     background-color: #0077b5; }
-
 .tbc\:linkedin.ribbon {
   border-right-color: #0077b5;
   border-left-color: #0090db; }
-
 .tbc\:linkedin.timeline_item .timeline_axis:before {
   background-color: #0077b5; }
-
 .tbc\:linkedin.timeline_item.is\:on .timeline_axis:before {
   box-shadow: 0 0 0 2px #0077b5, inset 0 0 0 3px #ffffff; }
-
 .tbc\:linkedin.avatar:after {
   border-color: #0077b5; }
-
 .tbc\:linkedin.avatar .avatar_obj {
   color: rgba(255, 255, 255, 0.87);
   background-color: #0077b5; }
-
 .tbc\:linkedin.label {
   color: white;
   background-color: #0077b5; }
-
 .tbc\:linkedin.progress_bar {
   color: rgba(255, 255, 255, 0.87);
   background-color: #0077b5; }
@@ -1196,7 +1043,6 @@
     //*/
     color: #3b5999;
     background-color: rgba(255, 255, 255, 0.7); }
-
 .tbc\:facebook.btn-outline {
   color: #3c5fa9;
   border-color: #3c5fa9; }
@@ -1205,7 +1051,6 @@
   .tbc\:facebook.btn-outline > .badge {
     color: #3b5999;
     border-color: #3b5999; }
-
 .tbc\:facebook.tag {
   color: rgba(36, 55, 94, 0.87);
   border-color: rgba(41, 62, 107, 0.24);
@@ -1213,28 +1058,21 @@
   .tbc\:facebook.tag .tag_append {
     color: rgba(255, 255, 255, 0.87);
     background-color: #3b5999; }
-
 .tbc\:facebook.ribbon {
   border-right-color: #3b5999;
   border-left-color: #4669b5; }
-
 .tbc\:facebook.timeline_item .timeline_axis:before {
   background-color: #3b5999; }
-
 .tbc\:facebook.timeline_item.is\:on .timeline_axis:before {
   box-shadow: 0 0 0 2px #3b5999, inset 0 0 0 3px #ffffff; }
-
 .tbc\:facebook.avatar:after {
   border-color: #3b5999; }
-
 .tbc\:facebook.avatar .avatar_obj {
   color: rgba(255, 255, 255, 0.87);
   background-color: #3b5999; }
-
 .tbc\:facebook.label {
   color: white;
   background-color: #3b5999; }
-
 .tbc\:facebook.progress_bar {
   color: rgba(255, 255, 255, 0.87);
   background-color: #3b5999; }
@@ -1265,7 +1103,6 @@
     //*/
     color: #4c75a3;
     background-color: rgba(255, 255, 255, 0.7); }
-
 .tbc\:vk.btn-outline {
   color: #4c75a3;
   border-color: #4c75a3; }
@@ -1274,7 +1111,6 @@
   .tbc\:vk.btn-outline > .badge {
     color: #4c75a3;
     border-color: #4c75a3; }
-
 .tbc\:vk.tag {
   color: rgba(50, 77, 107, 0.87);
   border-color: rgba(56, 86, 120, 0.24);
@@ -1282,28 +1118,21 @@
   .tbc\:vk.tag .tag_append {
     color: rgba(255, 255, 255, 0.87);
     background-color: #4c75a3; }
-
 .tbc\:vk.ribbon {
   border-right-color: #4c75a3;
   border-left-color: #6088b5; }
-
 .tbc\:vk.timeline_item .timeline_axis:before {
   background-color: #4c75a3; }
-
 .tbc\:vk.timeline_item.is\:on .timeline_axis:before {
   box-shadow: 0 0 0 2px #4c75a3, inset 0 0 0 3px #ffffff; }
-
 .tbc\:vk.avatar:after {
   border-color: #4c75a3; }
-
 .tbc\:vk.avatar .avatar_obj {
   color: rgba(255, 255, 255, 0.87);
   background-color: #4c75a3; }
-
 .tbc\:vk.label {
   color: white;
   background-color: #4c75a3; }
-
 .tbc\:vk.progress_bar {
   color: rgba(255, 255, 255, 0.87);
   background-color: #4c75a3; }
@@ -1334,7 +1163,6 @@
     //*/
     color: #003087;
     background-color: rgba(255, 255, 255, 0.7); }
-
 .tbc\:paypal.btn-outline {
   color: #0052e6;
   border-color: #0052e6; }
@@ -1343,7 +1171,6 @@
   .tbc\:paypal.btn-outline > .badge {
     color: #003087;
     border-color: #003087; }
-
 .tbc\:paypal.tag {
   color: rgba(0, 19, 53, 0.87);
   border-color: rgba(0, 25, 71, 0.24);
@@ -1351,28 +1178,21 @@
   .tbc\:paypal.tag .tag_append {
     color: rgba(255, 255, 255, 0.87);
     background-color: #003087; }
-
 .tbc\:paypal.ribbon {
   border-right-color: #003087;
   border-left-color: #003ead; }
-
 .tbc\:paypal.timeline_item .timeline_axis:before {
   background-color: #003087; }
-
 .tbc\:paypal.timeline_item.is\:on .timeline_axis:before {
   box-shadow: 0 0 0 2px #003087, inset 0 0 0 3px #ffffff; }
-
 .tbc\:paypal.avatar:after {
   border-color: #003087; }
-
 .tbc\:paypal.avatar .avatar_obj {
   color: rgba(255, 255, 255, 0.87);
   background-color: #003087; }
-
 .tbc\:paypal.label {
   color: white;
   background-color: #003087; }
-
 .tbc\:paypal.progress_bar {
   color: rgba(255, 255, 255, 0.87);
   background-color: #003087; }
@@ -1403,7 +1223,6 @@
     //*/
     color: #34465d;
     background-color: rgba(255, 255, 255, 0.7); }
-
 .tbc\:tumble.btn-outline {
   color: #4f6e97;
   border-color: #4f6e97; }
@@ -1412,7 +1231,6 @@
   .tbc\:tumble.btn-outline > .badge {
     color: #34465d;
     border-color: #34465d; }
-
 .tbc\:tumble.tag {
   color: rgba(23, 31, 41, 0.87);
   border-color: rgba(29, 39, 52, 0.24);
@@ -1420,28 +1238,21 @@
   .tbc\:tumble.tag .tag_append {
     color: rgba(255, 255, 255, 0.87);
     background-color: #34465d; }
-
 .tbc\:tumble.ribbon {
   border-right-color: #34465d;
   border-left-color: #425876; }
-
 .tbc\:tumble.timeline_item .timeline_axis:before {
   background-color: #34465d; }
-
 .tbc\:tumble.timeline_item.is\:on .timeline_axis:before {
   box-shadow: 0 0 0 2px #34465d, inset 0 0 0 3px #ffffff; }
-
 .tbc\:tumble.avatar:after {
   border-color: #34465d; }
-
 .tbc\:tumble.avatar .avatar_obj {
   color: rgba(255, 255, 255, 0.87);
   background-color: #34465d; }
-
 .tbc\:tumble.label {
   color: white;
   background-color: #34465d; }
-
 .tbc\:tumble.progress_bar {
   color: rgba(255, 255, 255, 0.87);
   background-color: #34465d; }
@@ -1472,7 +1283,6 @@
     //*/
     color: #430297;
     background-color: rgba(255, 255, 255, 0.7); }
-
 .tbc\:yahoo.btn-outline {
   color: #6400e6;
   border-color: #6400e6; }
@@ -1481,7 +1291,6 @@
   .tbc\:yahoo.btn-outline > .badge {
     color: #430297;
     border-color: #430297; }
-
 .tbc\:yahoo.tag {
   color: rgba(31, 1, 70, 0.87);
   border-color: rgba(39, 1, 88, 0.24);
@@ -1489,28 +1298,21 @@
   .tbc\:yahoo.tag .tag_append {
     color: rgba(255, 255, 255, 0.87);
     background-color: #430297; }
-
 .tbc\:yahoo.ribbon {
   border-right-color: #430297;
   border-left-color: #5403bd; }
-
 .tbc\:yahoo.timeline_item .timeline_axis:before {
   background-color: #430297; }
-
 .tbc\:yahoo.timeline_item.is\:on .timeline_axis:before {
   box-shadow: 0 0 0 2px #430297, inset 0 0 0 3px #ffffff; }
-
 .tbc\:yahoo.avatar:after {
   border-color: #430297; }
-
 .tbc\:yahoo.avatar .avatar_obj {
   color: rgba(255, 255, 255, 0.87);
   background-color: #430297; }
-
 .tbc\:yahoo.label {
   color: white;
   background-color: #430297; }
-
 .tbc\:yahoo.progress_bar {
   color: rgba(255, 255, 255, 0.87);
   background-color: #430297; }
