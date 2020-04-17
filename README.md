@@ -1,7 +1,7 @@
 Kule Lazy 4
 =============
 
-版本：4.0.16b
+版本：4.0.18b
 
 使用說明請看：http://lazy4.kule.tw/how-to-use
 
